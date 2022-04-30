@@ -1,2 +1,2 @@
-# COMTIC-v2.0
+# COMTIC-V2.0
 This repository contains Hindi-English **Code Mixed Text for Intent Classification with Word &amp; Sentense Level Language tag**, which is an improvement over our previous work of Hindi-English [Code Mixed Text for Intent Classification (<ins>__COMTIC__</ins>)](https://github.com/ai-ml-rnd-experiments/COMTIC) and named as COMTIC Version 2.0. We have additionally includes word level and sentense level language annotation over [</ins>__COMTIC__</ins>](https://github.com/ai-ml-rnd-experiments/COMTIC).
