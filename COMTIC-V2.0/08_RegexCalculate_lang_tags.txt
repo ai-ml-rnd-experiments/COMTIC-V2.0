@@ -1,0 +1,115 @@
+tan ninty ka parinaam kya hai	08_RegexCalculate_lang_tags.txt	Hin Eng Hin Hin Hin Hin	Hindi
+289 me se 10 ko ghata karke batao	08_RegexCalculate_lang_tags.txt	O Hin Hin O Hin Hin Hin Hin	Hindi
+nau dashmlav paanch minus unchalis dashmlav teen	08_RegexCalculate_lang_tags.txt	Hin Hin Hin Eng Hin Hin Eng	Hindi
+calculate karo zara chalis guna chalis kina hota hai	08_RegexCalculate_lang_tags.txt	Eng Hin Hin Hin Hin Hin Hin Hin Hin	Hindi
+square root of fifteen hundred kya hota hai	08_RegexCalculate_lang_tags.txt	Eng Eng Eng Eng Eng Hin Hin Hin	English
+ek chauthai guna teen chauthai calculate kareke batao	08_RegexCalculate_lang_tags.txt	Hin Hin Hin Eng Hin Eng Hin Hin	Hindi
+do hazaar paanch soh thees ka eighty percent value kya hai	08_RegexCalculate_lang_tags.txt	Hin Hin Hin Hin Eng Hin Eng Eng Eng Hin Hin	Hindi
+please divide 23345 by 231	08_RegexCalculate_lang_tags.txt	Hin Eng O Eng O	English
+paanch so ko teen se vibhajan karne ka parinaam kya hota hein	08_RegexCalculate_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin Hin Hin Hin Hin Hin	Hindi
+one plus one calculate karo	08_RegexCalculate_lang_tags.txt	Eng Eng Eng Eng Hin	English
+one by twenty four ka log value kya hai	08_RegexCalculate_lang_tags.txt	Eng Eng Eng Eng Hin Hin Eng Hin Hin	English
+teen rupay plus teen rupay kitne hue	08_RegexCalculate_lang_tags.txt	Eng Hin Eng Eng Hin Hin Hin	Hindi
+seven lakh minus fifty five thousand ka value batadho	08_RegexCalculate_lang_tags.txt	Eng Hin Eng Eng Eng Eng Hin Eng Hin	English
+cube root of 64 calculate karte bata do	08_RegexCalculate_lang_tags.txt	Eng Eng Eng O Eng Hin Hin Hin	English
+sine ninety and cos ninety ka sum kya hota hai	08_RegexCalculate_lang_tags.txt	Hin Eng Eng Hin Eng Hin Hin Hin Hin Hin	Hindi
+calculate karo five to the power of six kitna hota hai ?	08_RegexCalculate_lang_tags.txt	Eng Hin Eng Eng Eng Eng Eng Eng Hin Hin Hin O	English
+1546 ko 12 duwara divide karke answer dijiye	08_RegexCalculate_lang_tags.txt	O Hin O Hin Eng Hin Eng Hin	Hindi
+pi ka value bataiye	08_RegexCalculate_lang_tags.txt	Hin Hin Eng Hin	Hindi
+thirty thousand se fifteen ko multiply kiya to kya aaya ?	08_RegexCalculate_lang_tags.txt	Eng Eng Hin Eng Hin Eng Hin Eng Hin Hin O	English
+calculate arke batao 57 ko 10 se divide karne pe kya result ata hai ?	08_RegexCalculate_lang_tags.txt	Eng Hin Hin O Hin O Hin Eng Hin Hin Hin Eng Hin Hin O	Hindi
+two to the power of ten kya hota hai	08_RegexCalculate_lang_tags.txt	Eng Eng Eng Eng Eng Eng Hin Hin Hin	English
+das mein das pratishat daal kar badhao	08_RegexCalculate_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin	Hindi
+eight to the power of four karein to kya hota hai ?	08_RegexCalculate_lang_tags.txt	Eng Eng Eng Eng Eng Eng Hin Eng Hin Hin Hin O	English
+sau ko char mein vibhajit karke ek vibhajan ka value kya hoga	08_RegexCalculate_lang_tags.txt	Hin Hin Hin Hin Eng Hin Hin Hin Hin Eng Hin Hin	Hindi
+pi ka value kya hein	08_RegexCalculate_lang_tags.txt	Hin Hin Eng Hin Hin	Hindi
+gyarah hazaar paanch sau ka pandrah pratishat kitna hai	08_RegexCalculate_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin Hin Hin	Hindi
+mujhe calculate karke batao ki barah guna pachas kitna hota hai ?	08_RegexCalculate_lang_tags.txt	Hin Eng Hin Hin Hin Hin Hin Hin Hin Hin Hin O	Hindi
+50 me se 12 ghata do to kya bachega ?	08_RegexCalculate_lang_tags.txt	O Hin Hin O Hin Hin Eng Hin Hin O	Hindi
+calculate karke batao sau bata sau kitne hue	08_RegexCalculate_lang_tags.txt	Eng Hin Hin Hin Hin Hin Hin Hin	Hindi
+pi ka kya value hota hai batao	08_RegexCalculate_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin	Hindi
+do sau chabbis ka log value calculate karo	08_RegexCalculate_lang_tags.txt	Hin Hin Hin Hin Hin Eng Eng Hin	Hindi
+calculator mein 27 divided by 9 karo to kya aata hai ?	08_RegexCalculate_lang_tags.txt	Eng Hin O Eng Eng O Hin Eng Hin Hin Hin O	Hindi
+calculator use karke thirteen power of eight ka value patha karte hain	08_RegexCalculate_lang_tags.txt	Eng Hin Hin Eng Eng Eng Eng Hin Eng Hin Hin Hin	English
+agar 467 ko 58 se vibhajit kare to kya result ata hai	08_RegexCalculate_lang_tags.txt	Hin O Hin O Hin Eng Hin Eng Hin Eng Hin Hin	Hindi
+mujhe ye batao 45 ko 3 se vibhajit karne pe kitna ata hai ?	08_RegexCalculate_lang_tags.txt	Hin Hin Hin O Hin O Hin Eng Hin Hin Hin Hin Hin O	Hindi
+25 into 4 divided by 3 ka result calculate karo	08_RegexCalculate_lang_tags.txt	O Eng O Eng Eng O Hin Eng Eng Hin	English
+seventy five ko twenty three hundred se multiply karne ke baad result kya hoga	08_RegexCalculate_lang_tags.txt	Eng Eng Hin Eng Eng Eng Hin Eng Hin Hin Hin Eng Hin Hin	English
+five hundred ko twenty five thousand se multiply karne se result kya milega	08_RegexCalculate_lang_tags.txt	Eng Eng Hin Eng Eng Eng Hin Eng Hin Hin Eng Hin Hin	English
+10 dashamlav 7 ko 12 dashamlav 8 se guna karo	08_RegexCalculate_lang_tags.txt	O Hin O Hin O Hin O Hin Hin Hin	Hindi
+two twenty nine divided by twelve ka result kya hai	08_RegexCalculate_lang_tags.txt	Eng Eng Eng Eng Eng Eng Hin Eng Hin Hin	English
+calculate karo aur batao ki 459 me se 50 minus kiye to kitna hua	08_RegexCalculate_lang_tags.txt	Eng Hin Hin Hin Hin O Hin Hin O Eng Hin Eng Hin Hin	Hindi
+300 ko 15 duwara divide kijiye	08_RegexCalculate_lang_tags.txt	O Hin O Hin Eng Hin	Hindi
+kripaya 243 ko 78 duwara guna karien	08_RegexCalculate_lang_tags.txt	Hin O Hin O Hin Hin Hin	Hindi
+cos three sixty degree ka value kya hai	08_RegexCalculate_lang_tags.txt	Hin Eng Eng Eng Hin Eng Hin Hin	English
+331 ko 23 se multiply karke dikhao	08_RegexCalculate_lang_tags.txt	O Hin O Hin Eng Hin Hin	Hindi
+fourty percent of eight hundred ka value batado	08_RegexCalculate_lang_tags.txt	Eng Eng Eng Eng Eng Hin Eng Hin	English
+pachaas hazaar ka barah pratishat kya hota hai	08_RegexCalculate_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin Hin	Hindi
+390 mein 100 add karo zara	08_RegexCalculate_lang_tags.txt	O Hin O Eng Hin Hin	Hindi
+please calculate karo 32 multiplied by 358	08_RegexCalculate_lang_tags.txt	Hin Eng Hin O Eng Eng O	English
+calculator use karke tan three sixty ka value pata karke batao	08_RegexCalculate_lang_tags.txt	Eng Hin Hin Hin Eng Eng Hin Eng Hin Hin Hin	Hindi
+ek so se ekkis minus kiya to parinaam prakat karo	08_RegexCalculate_lang_tags.txt	Hin Hin Hin Hin Eng Hin Eng Hin Hin Hin	Hindi
+1134 ko 1600 se ghata diya to kya bacha ?	08_RegexCalculate_lang_tags.txt	O Hin O Hin Hin Hin Eng Hin Hin O	Hindi
+12 bar 8 ko jama karenge to kya aayega ?	08_RegexCalculate_lang_tags.txt	O Hin O Hin Hin Hin Eng Hin Hin O	Hindi
+160 ka 10 % kitna hua	08_RegexCalculate_lang_tags.txt	O Hin O O Hin Hin	Hindi
+12 dashmlav 9 multiplied by 69 dashmlav 7	08_RegexCalculate_lang_tags.txt	O Hin O Eng Eng O Hin O	English
+379 plus 481 calculate karke results show karo	08_RegexCalculate_lang_tags.txt	O Eng O Eng Hin Eng Eng Hin	English
+square of 23 calculate karte bata do	08_RegexCalculate_lang_tags.txt	Eng Eng O Eng Hin Hin Hin	English
+calculator use karke two to the power of twenty two ka value pata kar lo	08_RegexCalculate_lang_tags.txt	Eng Hin Hin Eng Eng Eng Eng Eng Eng Eng Hin Eng Hin Hin Hin	English
+twenty two point five ko seventeen se multiply karo	08_RegexCalculate_lang_tags.txt	Eng Eng Eng Eng Hin Eng Hin Eng Hin	English
+barah hazaar teen sau ka bees pratishat kitna hota hai ?	08_RegexCalculate_lang_tags.txt	Hin Hin Eng Hin Hin Eng Hin Hin Hin Hin O	Hindi
+65 ko 10% se kam karo	08_RegexCalculate_lang_tags.txt	O Hin O Hin Hin Hin	Hindi
+1257 and 1400 ka jodh calculate karo	08_RegexCalculate_lang_tags.txt	O Eng O Hin Hin Eng Hin	Hindi
+400 ke sath 23 jod ke bataye	08_RegexCalculate_lang_tags.txt	O Hin Hin O Hin Hin Hin	Hindi
+one zero two four ka square root calculate kar lo	08_RegexCalculate_lang_tags.txt	Eng Eng Eng Eng Hin Eng Eng Eng Hin Hin	English
+200 mein se 100 minus karo	08_RegexCalculate_lang_tags.txt	O Hin Hin O Eng Hin	Hindi
+ek plus ek ka parinaam kya hota hai	08_RegexCalculate_lang_tags.txt	Hin Eng Hin Hin Hin Hin Hin Hin	Hindi
+please add 3490 with 6744	08_RegexCalculate_lang_tags.txt	Hin Eng O Eng O	English
+calculator launch karke saath sau nabbe aur char so ka addition calculate karo	08_RegexCalculate_lang_tags.txt	Eng Eng Hin Hin Hin Hin Hin Hin Hin Hin Eng Eng Hin	Hindi
+pi ki value calculate karke bata sakte ho ?	08_RegexCalculate_lang_tags.txt	Hin Hin Eng Eng Hin Hin Hin Hin O	Hindi
+hisaab karo teen plus ek divided by do minus ek	08_RegexCalculate_lang_tags.txt	Hin Hin Eng Eng Hin Eng Eng Hin Eng Hin	English
+zero point sixty two ka logarithm calculate karo	08_RegexCalculate_lang_tags.txt	Eng Eng Eng Eng Hin Eng Eng Hin	English
+45 ko 36 ke sath guna kijiye	08_RegexCalculate_lang_tags.txt	O Hin O Hin Hin Hin Hin	Hindi
+kripaya 2456 se 231 ki subtract kijiye	08_RegexCalculate_lang_tags.txt	Hin O Hin O Hin Eng Hin	Hindi
+calculate karo 376 into 247	08_RegexCalculate_lang_tags.txt	Eng Hin O Eng O	English
+multiply 12 with 3449	08_RegexCalculate_lang_tags.txt	Eng O Eng O	English
+calculator mein 5 into 25 ka pata karo	08_RegexCalculate_lang_tags.txt	Eng Hin O Eng O Hin Hin Hin	Hindi
+21000 se 5000 ko ghataya to kitna reh gaya ?	08_RegexCalculate_lang_tags.txt	O Hin O Hin Hin Eng Hin Hin Hin O	Hindi
+pi ka kya mulya hai	08_RegexCalculate_lang_tags.txt	Hin Hin Hin Hin Hin	Hindi
+225 ka square root calculate karke batao	08_RegexCalculate_lang_tags.txt	O Hin Eng Eng Eng Hin Hin	English
+800 ko 11 se vibhajit karein to result kya hota hai	08_RegexCalculate_lang_tags.txt	O Hin O Hin Eng Hin Eng Eng Hin Hin Hin	Hindi
+calculate and tell me 296 plus 34 kitna hua ?	08_RegexCalculate_lang_tags.txt	Eng Eng Eng Hin O Eng O Hin Hin O	English
+hazaar meter divided by 2 kitna hua ?	08_RegexCalculate_lang_tags.txt	Hin Eng Eng Eng O Hin Hin O	English
+20 lakh ko 12 se multiply karo to kya aata hai ?	08_RegexCalculate_lang_tags.txt	O Hin Hin O Hin Eng Hin Eng Hin Hin Hin O	Hindi
+calculator mein sine of ninety degrees kya hai	08_RegexCalculate_lang_tags.txt	Eng Hin Hin Eng Eng Eng Hin Hin	English
+hundred plus sixty minus twenty five ka parinaam kya hai	08_RegexCalculate_lang_tags.txt	Eng Eng Eng Eng Eng Eng Hin Hin Hin Hin	English
+367 divided by 16 ka result kya hai ?	08_RegexCalculate_lang_tags.txt	O Eng Eng O Hin Eng Hin Hin O	English
+bees hazaar se nau hazaar ko kam kiya tho kya parinaam aayega	08_RegexCalculate_lang_tags.txt	Eng Hin Hin Hin Hin Hin Hin Hin Hin Hin Hin Hin	Hindi
+paanch dashmlav chaar multiplied by das ka kya result milega	08_RegexCalculate_lang_tags.txt	Hin Hin Hin Eng Eng Hin Hin Hin Eng Hin	Hindi
+63 multiplied by fifty five thousand ka kya parinaam aayega ?	08_RegexCalculate_lang_tags.txt	O Eng Eng Eng Eng Eng Hin Hin Hin Hin O	English
+calculate karke batayiye ki pie ki value kya ho sakti hai ?	08_RegexCalculate_lang_tags.txt	Eng Hin Hin Hin Hin Hin Eng Hin Hin Hin Hin O	Hindi
+two to the power of nineteen calculate karo	08_RegexCalculate_lang_tags.txt	Eng Eng Eng Eng Eng Eng Eng Hin	English
+can you please multiply 9878 with 334	08_RegexCalculate_lang_tags.txt	Eng Hin Hin Eng O Eng O	English
+ek chauthai guna solah chauthai calculate kariye	08_RegexCalculate_lang_tags.txt	Hin Hin Hin Hin Hin Eng Hin	Hindi
+calculator se patha karlo ki hazaar se pandran ko multiply kiya to parinaam kya hoga	08_RegexCalculate_lang_tags.txt	Eng Hin Hin Hin Hin Hin Hin Hin Hin Eng Hin Eng Hin Hin Hin	Hindi
+gyarah hazaar ko barah mahineih se multiply karo	08_RegexCalculate_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Hin	Hindi
+ninety five se twenty two minus kare six se divide karo	08_RegexCalculate_lang_tags.txt	Eng Eng Hin Eng Eng Eng Hin Eng Hin Eng Hin	English
+500 ko 39 se multiply karne se result kya aayega ?	08_RegexCalculate_lang_tags.txt	O Hin O Hin Eng Hin Hin Eng Hin Hin O	Hindi
+do hazaar saat soh chalis ka thirty percent kya aata hai ?	08_RegexCalculate_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Eng Hin Hin Hin O	Hindi
+103 ko agar 2 se divide kia to kitna hua ?	08_RegexCalculate_lang_tags.txt	O Hin Hin O Hin Eng Hin Eng Hin Hin O	Hindi
+choubis hazaar ka 60 pratishat kya hota hai ?	08_RegexCalculate_lang_tags.txt	Eng Hin Hin O Hin Hin Hin Hin O	Hindi
+cube root of 21 kitna hota hai	08_RegexCalculate_lang_tags.txt	Eng Eng Eng O Hin Hin Hin	English
+saat sau ko do se divide ka de parinaam kya hota hein ?	08_RegexCalculate_lang_tags.txt	Hin Hin Hin Hin Hin Eng Hin Hin Hin Hin Hin Hin O	Hindi
+783 ka square root calculate karo	08_RegexCalculate_lang_tags.txt	O Hin Eng Eng Eng Hin	English
+55 multiplied by 30 kitna hota hai	08_RegexCalculate_lang_tags.txt	O Eng Eng O Hin Hin Hin	Hindi
+assi lakh gyarah hazaar ko barah mahineih se divide karo	08_RegexCalculate_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin Hin Eng Hin	Hindi
+256 ka log value calculate karo	08_RegexCalculate_lang_tags.txt	O Hin Hin Eng Eng Hin	Hindi
+ek karod pachpan lakh ka aat percent interest kya hota hein	08_RegexCalculate_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Eng Hin Hin Hin	Hindi
+57 ko 83 se add karke result ko 12 se multiply karo	08_RegexCalculate_lang_tags.txt	O Hin O Hin Eng Hin Eng Hin O Hin Eng Hin	Hindi
+zara 12 bate 6 ki value batao	08_RegexCalculate_lang_tags.txt	Hin O Hin O Hin Eng Hin	Hindi
+ninety percent of thirty five hundred ka value bata sakte ho ?	08_RegexCalculate_lang_tags.txt	Eng Eng Eng Eng Eng Eng Hin Eng Hin Hin Hin O	English
+please 225 ko 25 se divide karo	08_RegexCalculate_lang_tags.txt	Hin O Hin O Hin Eng Hin	Hindi
+pi se fifteen ko multiply kiya tho parinaam kya ho sakta hai	08_RegexCalculate_lang_tags.txt	Hin Hin Eng Hin Eng Hin Hin Hin Hin Hin Hin Hin	Hindi
+do duni char calculate kijiiye	08_RegexCalculate_lang_tags.txt	Hin Hin Hin Eng Hin	Hindi
+calculator se pata karo 123 aur 18 ko multiply kiya to parinaam kya hoga ?	08_RegexCalculate_lang_tags.txt	Eng Hin Hin Hin O Hin O Hin Eng Hin Eng Hin Hin Hin O	Hindi
+calculator use karo aur batao ki 46 into 56 kitna hota hai ?	08_RegexCalculate_lang_tags.txt	Eng Hin Hin Hin Hin Hin O Eng O Hin Hin Hin O	Hindi

@@ -1,0 +1,227 @@
+jis number se abhi call aaya tha call it back	01_CallingInfo_lang_tags.txt	Hin Eng Hin Hin Eng Hin Hin Eng Eng Eng	English
+ek bar zara meri raja se phone pe baat karwa do	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Hin Hin Hin Hin	Hindi
+jaldi se varun ki mobile pe phone lagiyen	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Eng Hin Eng Hin	Hindi
+rajkumar ji ko call karo unke home number pe	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Hin Eng Eng Hin	Hindi
+call back karein zara to the last number	01_CallingInfo_lang_tags.txt	Eng Eng Hin Hin Eng Eng Eng Eng	English
+ekbar khalid se baat karien	01_CallingInfo_lang_tags.txt	Hin Eng Hin Hin Hin	Hindi
+jaldi se chandrika ki mobile number milao	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Eng Eng Hin	Hindi
+meri mausi ki landline pe dial karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Eng Hin	Hindi
+call delhi wali mausi ko unke mobile par	01_CallingInfo_lang_tags.txt	Eng Hin Hin Hin Hin Hin Eng Hin	Hindi
+aurobindo ke office number par call ghumao	01_CallingInfo_lang_tags.txt	Eng Hin Eng Eng Hin Eng Hin	English
+yogi uncle ko turant call lagai jae	01_CallingInfo_lang_tags.txt	Hin Eng Hin Hin Eng Hin Hin	Hindi
+last received call pe redial karo	01_CallingInfo_lang_tags.txt	Eng Eng Eng Hin Eng Hin	English
+mausa ji duravas mein baatein karna hain	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin	Hindi
+zara call lagaein ammi ko	01_CallingInfo_lang_tags.txt	Hin Eng Hin Hin Hin	Hindi
+speaker par sampark karein rajni se	01_CallingInfo_lang_tags.txt	Eng Hin Hin Hin Hin Hin	Hindi
+please call back to mausa ji	01_CallingInfo_lang_tags.txt	Hin Eng Eng Eng Hin Hin	English
+meri maa ko phone lagao	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin	Hindi
+1800018000 par call lagao sim 2 se	01_CallingInfo_lang_tags.txt	O Hin Eng Hin Hin O Hin	Hindi
+nanu ke mobile number par phone lagein	01_CallingInfo_lang_tags.txt	Hin Hin Eng Eng Hin Eng Hin	Hindi
+last dialled number par phir se baat karvayein	01_CallingInfo_lang_tags.txt	Eng Eng Eng Hin Hin Hin Hin Hin	Hindi
+baat kariye meri papa se right now	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Eng Eng	Hindi
+achintya ji ko phone ghumaiye	01_CallingInfo_lang_tags.txt	Eng Hin Hin Eng Hin	Hindi
+riddhi ke mobile number pe call karo sim card 2 se	01_CallingInfo_lang_tags.txt	Hin Hin Eng Eng Hin Eng Hin Hin Eng O Hin	Hindi
+call back chachu now	01_CallingInfo_lang_tags.txt	Eng Eng Hin Eng	English
+abhi nitya ki mobile pe call karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Eng Hin	Hindi
+ekbar aunty ji ko phone karna hain	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Eng Hin Hin	Hindi
+bapu ji ka number dial karein	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Eng Hin	Hindi
+nani ko phone ghumao	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin	Hindi
+call ruchika	01_CallingInfo_lang_tags.txt	Eng Hin	English
+call lagao umesh ko sim 1 se	01_CallingInfo_lang_tags.txt	Eng Hin Hin Hin Hin O Hin	Hindi
+anish k ghar ka number dial ki jiye	01_CallingInfo_lang_tags.txt	Eng Hin Hin Hin Eng Eng Hin Hin	Hindi
+meri mausi ko call karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin	Hindi
+parnani ki mobile pe video call kariyen	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Eng Eng Hin	Hindi
+kya women's helpline number par phone kar doge ?	01_CallingInfo_lang_tags.txt	Hin Eng Eng Eng Hin Eng Hin Hin O	English
+bhaiya ko call karo jaldi	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Hin	Hindi
+jaldi se phuphi ki landline wali number pe call karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Eng Hin Eng Hin Eng Hin	Hindi
+abhi gudiya ko phone lagao please	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Hin	Hindi
+promod ke mobile pe ring karo	01_CallingInfo_lang_tags.txt	Eng Hin Eng Hin Eng Hin	English
+please dial mama ji	01_CallingInfo_lang_tags.txt	Hin Eng Hin Hin	Hindi
+jo ye last received number hai dial it again	01_CallingInfo_lang_tags.txt	Hin Hin Eng Eng Eng Hin Eng Eng Eng	English
+last received number par call karo	01_CallingInfo_lang_tags.txt	Eng Eng Eng Hin Eng Hin	English
+sakshi ki jaldi se dial karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Eng Hin	Hindi
+phone ghumao mere buddy chintu ko	01_CallingInfo_lang_tags.txt	Eng Hin Hin Hin Hin Hin	Hindi
+last called number par phir se call karo	01_CallingInfo_lang_tags.txt	Eng Eng Eng Hin Hin Hin Eng Hin	English
+last received number par call back karo	01_CallingInfo_lang_tags.txt	Eng Eng Eng Hin Eng Eng Hin	English
+mummy ko phone lagao	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin	Hindi
+lets see agar abhijeet se baat hoti hai	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin Hin	Hindi
+zubin ki mobile number pe call karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Eng Hin Eng Hin	Hindi
+call karo chacha ko mobile pe	01_CallingInfo_lang_tags.txt	Eng Hin Hin Hin Eng Hin	Hindi
+jaldi se meri baat electrician se karwa do phone pe	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Eng Hin Hin Hin Eng Hin	Hindi
+ghar par call karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin	Hindi
+vinuth ko redial karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin	Hindi
+jaldi se mausa ji ko call karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Eng Hin	Hindi
+just call my father turant please	01_CallingInfo_lang_tags.txt	Eng Eng Eng Eng Hin Hin	English
+pranav ki mobile number pe video call karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Eng Hin Eng Eng Hin	English
+nati ko telephone lagaein	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin	Hindi
+ranjan se baat karne k piye phone milao	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Hin	Hindi
+sanjay ka landline mein redial karien	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Eng Hin	Hindi
+kripya nana ko telephone karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin	Hindi
+kia upasana ko ek call karenge	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Eng Hin	Hindi
+call phuphi	01_CallingInfo_lang_tags.txt	Eng Hin	English
+call back shivani now	01_CallingInfo_lang_tags.txt	Eng Eng Hin Eng	English
+please mere cellphone se mummy ko ek bar call karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin Hin Eng Hin	Hindi
+meri biwi ki mobile mein call karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Eng Hin	Hindi
+rasika ke office ke number par call please	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Eng Hin Eng Hin	Hindi
+call shahnaz	01_CallingInfo_lang_tags.txt	Eng Eng	English
+pranav ko dial karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin	Hindi
+devika ki mobile pe ring back kariyen	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Eng Eng Hin	Hindi
+nandoi ji ki number miliyen please	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Hin	Hindi
+umang ke home number par baat karao	01_CallingInfo_lang_tags.txt	Hin Hin Eng Eng Hin Hin Hin	Hindi
+mera pati ko ring back karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Eng Hin	Hindi
+akhiri miss hui call ko wapis se call lagao	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin Eng Hin	Hindi
+upasana ki ghar mein phone ghumao	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Eng Hin	Hindi
+zoya ko phone kariyen	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin	Hindi
+mausa ji sath video call chalu karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Eng Hin Hin	Hindi
+ek number dial karo	01_CallingInfo_lang_tags.txt	Hin Eng Eng Hin	English
+chirag ka number milao	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin	Hindi
+jaldi se anish ko phone karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Eng Hin	Hindi
+tarun ki durvas yantra mein numbar lagaye	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin	Hindi
+jaldi se call maa	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin	Hindi
+call up deepak uske office mein	01_CallingInfo_lang_tags.txt	Eng Eng Hin Hin Eng Hin	English
+please mama ji ko dial kijiyen	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Eng Hin	Hindi
+baat karvayein angha se phone par	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Eng Hin	Hindi
+devrani ko call lagao mobile pe	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Eng Hin	Hindi
+tau ji ko phone kariye ghar wale number pe	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin Eng Hin	Hindi
+devar ko phone karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin	Hindi
+surya k ghar ka number dial ki jiye	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Eng Eng Hin Hin	Hindi
+devrani ke sathe video call start karien	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Eng Eng Hin	Hindi
+daddy ji ko call karna hain	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Hin	Hindi
+phone lagao aryan ko uske ghar wale number pe	01_CallingInfo_lang_tags.txt	Eng Hin Eng Hin Hin Hin Hin Eng Hin	Hindi
+ekbar daddy ko phone karna hain	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Hin	Hindi
+ghar ke phone par call kijiye	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Eng Hin	Hindi
+kripaya meri nani ke ghar pe phone lagaiye	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Hin	Hindi
+baat karao zoya se	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin	Hindi
+pita ji se baat karwa do unke office number par	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin Eng Eng Hin	Hindi
+dekhte hain pooja call pick karti hai ya nahi	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Eng Hin Hin Hin Hin	Hindi
+ghar phone lagana on landline	01_CallingInfo_lang_tags.txt	Hin Eng Hin Eng Eng	English
+call in helpline number jaldi	01_CallingInfo_lang_tags.txt	Eng Eng Eng Eng Hin	English
+list mein jo last dialled number hai call again	01_CallingInfo_lang_tags.txt	Eng Hin Hin Eng Eng Eng Hin Eng Eng	English
+abhi bhaiya ki landline mein call karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Eng Hin	Hindi
+can you please call meri sasu ma ?	01_CallingInfo_lang_tags.txt	Eng Hin Hin Eng Hin Hin Hin O	Hindi
+zara bilal ka number milana jaldi se	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin	Hindi
+meri baat karao abhijeet se sim 2 card use karna	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Hin O Eng Hin Hin	Hindi
+phuphi ji ko call karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin	Hindi
+ghar ke landline par dadi se baat karvao	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin Hin	Hindi
+call lagao to zara kirane wale uncle ko	01_CallingInfo_lang_tags.txt	Eng Hin Eng Hin Hin Hin Eng Hin	Hindi
+shalini se baat karo abhi ke abhi	01_CallingInfo_lang_tags.txt	Eng Hin Hin Hin Hin Hin Hin	Hindi
+phufaji se baat kara do phone pe	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Eng Hin	Hindi
+mere sasurji ke ghar wale number par abhi ke abhi phone ghumao	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Eng Hin Hin Hin Hin Eng Hin	Hindi
+grocery store ko phone lagake do delivery ki enquiry karni hai	01_CallingInfo_lang_tags.txt	Eng Eng Hin Eng Hin Hin Eng Hin Eng Hin Hin	Hindi
+aaj mere best friend abhijeet se baat karte hain	01_CallingInfo_lang_tags.txt	Hin Hin Eng Eng Eng Hin Hin Hin Hin	Hindi
+phone ghumaayie krishna chachi ke yahan	01_CallingInfo_lang_tags.txt	Eng Hin Hin Hin Hin Hin	Hindi
+please mujhe mere bhai se baat karni hai phone laga do	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin Hin Eng Hin Hin	Hindi
+shweta ki office ka number dial karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Eng Eng Hin	Hindi
+call ashwini bhardwaj ko uske cell pe	01_CallingInfo_lang_tags.txt	Eng Eng Eng Hin Hin Eng Hin	English
+vinuth ko phone lagiye	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin	Hindi
+mere dost pinku ko dial karna	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Eng Hin	Hindi
+kia did ko phone karenge please	01_CallingInfo_lang_tags.txt	Hin Eng Hin Eng Hin Hin	Hindi
+phuphi ko phone lagao	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin	Hindi
+sakshi ki landline mein call karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Eng Hin	Hindi
+aunty ki mobile pe call lagiyen	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Eng Hin	Hindi
+party office mein phone lagaiye	01_CallingInfo_lang_tags.txt	Eng Eng Hin Eng Hin	English
+ye jo last number par baat ki hai call back on speaker	01_CallingInfo_lang_tags.txt	Hin Hin Eng Eng Hin Hin Hin Hin Eng Eng Eng Eng	English
+didi se abhi baat karni home	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Eng	Hindi
+deepika ko home number par call karo	01_CallingInfo_lang_tags.txt	Eng Hin Eng Eng Hin Eng Hin	English
+last dialled number par phir se baat karao	01_CallingInfo_lang_tags.txt	Eng Eng Eng Hin Hin Hin Hin Hin	Hindi
+ek bar meri mausi ko phone mila do please	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Eng Hin Hin Hin	Hindi
+mummy ko call lagaein unke landline par	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Hin Eng Hin	Hindi
+kia zubin ko ek phone karenge	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Eng Hin	Hindi
+kripaya brijesh uncle ko call karo using sim 2	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Eng Hin Eng Hin O	Hindi
+phone ghumao ahalya ke work number par	01_CallingInfo_lang_tags.txt	Eng Hin Hin Hin Eng Eng Hin	Hindi
+mujhe sim 2 se mom ko call karna hain	01_CallingInfo_lang_tags.txt	Hin Hin O Hin Hin Hin Eng Hin Hin	Hindi
+kripaya vinay ko telephone karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin	Hindi
+bua ke ghar phone lagao	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin	Hindi
+dadi ke landline number par phone karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Eng Hin Eng Hin	Hindi
+zubin ko dial karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin	Hindi
+kripaya shivani ki number pe call lagiye	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Eng Hin	Hindi
+rajiv uncle ke ghar wale number par phone kijiye	01_CallingInfo_lang_tags.txt	Hin Eng Hin Hin Hin Eng Hin Eng Hin	Hindi
+promod ko phone lagiye	01_CallingInfo_lang_tags.txt	Eng Hin Eng Hin	English
+meri ghar par baat karao on landline	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Eng Eng	Hindi
+mere phone se papa ka number milao	01_CallingInfo_lang_tags.txt	Hin Eng Hin Hin Hin Eng Hin	Hindi
+mausi ko unke ghar ke phone par call lagayein	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Eng Hin Eng Hin	Hindi
+kya aap meri saheli sunita se phone pe baat karwa denge ?	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Hin Hin Hin Hin O	Hindi
+zoya ke sath video call suru karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Eng Hin Hin	Hindi
+call bhaiya	01_CallingInfo_lang_tags.txt	Eng Hin	English
+mera pita ji phone karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin	Hindi
+surabhi ki landline mein call back karien	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Eng Eng Hin	Hindi
+ye jo last dialled number hai use phir se phone lagao	01_CallingInfo_lang_tags.txt	Hin Hin Eng Eng Eng Hin Hin Hin Hin Eng Hin	Hindi
+parvez ka number ghumao	01_CallingInfo_lang_tags.txt	Eng Hin Eng Hin	English
+kya tum mujhe rachna ka mobile number mila ke de sakte ho ?	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Eng Eng Hin Hin Hin Hin Hin O	Hindi
+mujhe ghar baat karni hai call please	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Eng Hin	Hindi
+bhaiya ki landline pe dial karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Eng Hin	Hindi
+please varun ko phone lagiyen	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin	Hindi
+mujhe angad se baat karni hai	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Hin	Hindi
+ye jo last dialled number hai uspar phir se baat karaein	01_CallingInfo_lang_tags.txt	Hin Hin Eng Eng Eng Hin Hin Hin Hin Hin Eng	Hindi
+baat karao zara sabina se	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin	Hindi
+mujhe abhilash se baat karni hai	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Hin	Hindi
+bitiya ko ek video call lagaiye	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Eng Hin	Hindi
+call maa unke ghar wale number par	01_CallingInfo_lang_tags.txt	Eng Hin Hin Hin Hin Eng Hin	Hindi
+jaldi se mama ki mobile pe dial karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Eng Hin Eng Hin	Hindi
+please phuphi ko dial karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin	Hindi
+imraan ki office wali number milao please	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Eng Hin Hin	Hindi
+farah ko dial karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin	Hindi
+call riddhi please	01_CallingInfo_lang_tags.txt	Eng Hin Hin	Hindi
+ye jo last received number hai uspar wapas se phone karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Eng Eng Hin Hin Hin Hin Eng Hin	Hindi
+kia vinuth ko dial karoge please	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Hin	Hindi
+chalo maa ko phone lagate hain	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Hin	Hindi
+bittu ke papa se mobile phone pe baat karao	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Eng Eng Hin Hin Hin	Hindi
+turant plumber wale ko phone lagao	01_CallingInfo_lang_tags.txt	Hin Eng Hin Hin Eng Hin	Hindi
+nanad ji mobile pe phone karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Eng Hin	Hindi
+jo last called number hai uspe phir baat karao	01_CallingInfo_lang_tags.txt	Hin Eng Eng Eng Hin Hin Hin Hin Hin	Hindi
+sim card 2 se call angad	01_CallingInfo_lang_tags.txt	Hin Eng O Hin Eng Hin	Hindi
+zara mahesh ko uske office ke number pe call karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Eng Hin Eng Hin Eng Hin	Hindi
+mujhe abhi nani se baat karni hain	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin	Hindi
+please rita aunty ko call laga do	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Eng Hin Hin	Hindi
+kripaya ring back mom	01_CallingInfo_lang_tags.txt	Hin Eng Eng Hin	English
+doctor madhav ji se baat karao on his mobile	01_CallingInfo_lang_tags.txt	Eng Hin Hin Hin Hin Hin Eng Eng Eng	Hindi
+call devrani	01_CallingInfo_lang_tags.txt	Eng Hin	English
+phone back mama ji	01_CallingInfo_lang_tags.txt	Eng Eng Hin Hin	English
+call arjun ka office number	01_CallingInfo_lang_tags.txt	Eng Hin Hin Eng Eng	English
+jaldi se anupriya se baat karao	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Hin	Hindi
+please call jijja ji jaldi	01_CallingInfo_lang_tags.txt	Hin Eng Hin Hin Hin	Hindi
+chaliye ghar par baat karte hain call home please	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Eng Hin	Hindi
+phone ghumaiye zara paridhi ko	01_CallingInfo_lang_tags.txt	Eng Hin Hin Hin Hin	Hindi
+saanvi ki mobile number dial karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Eng Eng Hin	English
+didi ko phone ghumaiye	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin	Hindi
+sejal se baat karni hai mobile no par	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Eng Hin Hin	Hindi
+kia phuphi ji number mila sakte hain	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin	Hindi
+kya tum devki aunty se phone pe meri baat karwa doge ?	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Eng Hin Hin Hin Hin Hin O	Hindi
+phir se chacha ji ko ghar pe call lagao	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin Eng Hin	Hindi
+dial ambulance	01_CallingInfo_lang_tags.txt	Eng Eng	English
+please call nanad	01_CallingInfo_lang_tags.txt	Hin Eng Hin	Hindi
+waseem ko call kariye abhi ke abhi	01_CallingInfo_lang_tags.txt	Eng Hin Eng Hin Hin Hin Hin	Hindi
+mujhe sarita se baat karni hai call lagao	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Hin	Hindi
+call mom	01_CallingInfo_lang_tags.txt	Eng Hin	English
+tu pehle pitaji ko office ke mobile number par sim 1 se call laga	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Eng Hin Eng Eng Hin Hin O Hin Eng Hin	Hindi
+dekhen madhav phone uthayega kya	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Hin	Hindi
+surya ke sath video call set karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Eng Eng Hin	Hindi
+last call received wale number par phone lagao	01_CallingInfo_lang_tags.txt	Eng Eng Eng Hin Eng Hin Eng Hin	English
+sim 1 use karke nandid ke work number par phone lagao	01_CallingInfo_lang_tags.txt	Hin O Hin Hin Hin Hin Eng Eng Hin Eng Hin	Hindi
+meri bff ko call karo mobile pe	01_CallingInfo_lang_tags.txt	Hin Eng Hin Eng Hin Eng Hin	Hindi
+meri mama ji ko call karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Eng Hin	Hindi
+call up pooja	01_CallingInfo_lang_tags.txt	Eng Eng Hin	English
+maa ko phone karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin	Hindi
+bhavin ki mobile number milao	01_CallingInfo_lang_tags.txt	Eng Hin Eng Eng Hin	English
+jennifer ke mobile pe call karo	01_CallingInfo_lang_tags.txt	Eng Hin Eng Hin Eng Hin	English
+dusra wale sim se pita ji call karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Hin	Hindi
+mujhe urgently papa se baat karni hai phone lagao	01_CallingInfo_lang_tags.txt	Hin Eng Hin Hin Hin Hin Hin Eng Hin	Hindi
+biji ko call lagao turant	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Hin	Hindi
+second sim card se advait ko call lagao	01_CallingInfo_lang_tags.txt	Eng Hin Eng Hin Eng Hin Eng Hin	English
+jaldi se ramesh ke ghar pe call karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Hin	Hindi
+call mama zara	01_CallingInfo_lang_tags.txt	Eng Hin Hin	Hindi
+mausa ji ko jaldi se ring back karien	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Eng Eng Hin	Hindi
+bhatija ko phone ghumao	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin	Hindi
+mera bhaiya ki mobile mein ring karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Eng Hin	Hindi
+jaldi se saroj hospital ka number milao	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Eng Hin	Hindi
+chal jaldi se ritesh ke ghar phone laga	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Hin Eng Hin	Hindi
+meri baat karwao zara rajesh ke school ke principal se	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Hin Eng Hin	Hindi
+gudiya ki mobile pe dial karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Eng Hin	Hindi
+agra wale phupha ji ko phone ghumaiye	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Eng Hin	Hindi
+dadaji ke mobile pe call karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin Eng Hin	Hindi
+jijja ji ko call karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin	Hindi
+please call amit uske ghar wale number par	01_CallingInfo_lang_tags.txt	Hin Eng Hin Hin Hin Hin Eng Hin	Hindi
+mausi ke sath telephone mein baat karna hain	01_CallingInfo_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin Hin	Hindi
+jaldi se swapan ji ko call karo	01_CallingInfo_lang_tags.txt	Hin Hin Hin Hin Hin Eng Hin	Hindi
+last dialed number pe ring back karo	01_CallingInfo_lang_tags.txt	Eng Eng Eng Hin Eng Eng Hin	English
+maa ko call karo	01_CallingInfo_lang_tags.txt	Hin Hin Eng Hin	Hindi
