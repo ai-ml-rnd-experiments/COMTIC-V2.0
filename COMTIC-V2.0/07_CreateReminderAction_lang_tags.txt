@@ -1,0 +1,194 @@
+when i get to phoenix mall yaad dilayein ki make up kharidna hai	07_CreateReminderAction_lang_tags.txt	Eng Hin Eng Eng Eng Eng Hin Hin Hin Eng Eng Hin Hin	English
+reminder lagao fatafat for a workshop session at 2 pm	07_CreateReminderAction_lang_tags.txt	Eng Hin Hin Eng Eng Eng Eng Eng O Eng	English
+kripaya mujhe yaad dilaye ki kal raat ko 9 baje puja ki wedding anniversary party hai	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin Hin O Hin Hin Hin Eng Eng Eng Hin	Hindi
+adhe ghante mein workout ke liye yaad karana	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin Hin	Hindi
+agle mahine ki teis ko yoga workshop ka reminder set karo	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Eng Eng Hin Eng Eng Hin	Hindi
+pitaji ka janamdin naam se ek reminder save kariye kal subah 8 baje ka	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Eng Hin Hin Hin O Hin Hin	Hindi
+morning 10 am yaad dilayein ki boss ko message karna hai	07_CreateReminderAction_lang_tags.txt	Eng O Hin Hin Hin Hin Hin Hin Eng Hin Hin	Hindi
+har saal on 26th july puja ka birthday hai yaad karana	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Eng Hin Hin Hin Eng Hin Hin Hin	Hindi
+kal shaam 7 baje ke liya family dinner naam ka ek alert banayein	07_CreateReminderAction_lang_tags.txt	Hin Hin O Hin Hin Hin Eng Eng Hin Hin Hin Eng Hin	Hindi
+14 december sade paanch baje ka reminder set karein naam dein maa ka janamdin	07_CreateReminderAction_lang_tags.txt	O Hin Hin Hin Hin Hin Eng Eng Hin Hin Hin Hin Hin Hin	Hindi
+mujhe ek reminder lagana hai kal shaam ko 8 baje rinki ki birthday party me jana hai	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin Hin O Hin Eng Hin Eng Eng Hin Hin Hin	Hindi
+sitafal laane ka ek reminder kal shaam ke liye save karo	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Eng Hin Hin Hin Hin Eng Hin	Hindi
+mujhe satark karna wednesday meeting ke liye	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Eng Hin Hin	Hindi
+kal yaad dilana shaam ko baccho ko park leke jana hai	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin Eng Hin Hin Hin	Hindi
+chaliye conference call reminder dekhte hain	07_CreateReminderAction_lang_tags.txt	Hin Eng Eng Eng Hin Hin	English
+daftar pahunchne se pehle petrol dalvane ke liye alert karein	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin Hin Eng Hin	Hindi
+august mahine ki 17 ko remind karvana pranav ka birthday hai	07_CreateReminderAction_lang_tags.txt	Eng Hin Hin O Hin Eng Hin Hin Hin Eng Hin	Hindi
+satran november ko yaad dilao ki dentist appointment hai	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Eng Hin	Hindi
+ek reminder banao to help me take my medicines	07_CreateReminderAction_lang_tags.txt	Hin Eng Hin Eng Eng Hin Eng Eng Eng	English
+kya tum ek reminder set karke de sakte ho please ?	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Eng Hin Hin Hin Hin Hin O	Hindi
+please set a reminder for me na to get rajma chawal from chandi chawk dhaba	07_CreateReminderAction_lang_tags.txt	Hin Eng Eng Eng Eng Hin Hin Eng Eng Hin Hin Eng Hin Eng Hin	English
+ek reminder laga ke do kal anjali ki train hai 5 baje	07_CreateReminderAction_lang_tags.txt	Hin Eng Hin Hin Hin Hin Hin Hin Eng Hin O Hin	Hindi
+aaj raat 8 baje ko the sky is pink movie ke liye ek reminder laga do	07_CreateReminderAction_lang_tags.txt	Hin Hin O Hin Hin Eng Eng Eng Eng Eng Hin Hin Hin Eng Hin Hin	Hindi
+mere liye ek reminder set karo at 4 pm tomorrow to buy the ring	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Eng Hin Eng O Eng Eng Eng Eng Eng Eng	English
+diapers order karna yaad dilayein	07_CreateReminderAction_lang_tags.txt	Eng Eng Hin Hin Hin	Hindi
+shopping jaane ka reminder chahiye	07_CreateReminderAction_lang_tags.txt	Eng Hin Hin Eng Hin	Hindi
+remind karvayega raat 8 baje ramayan is on	07_CreateReminderAction_lang_tags.txt	Eng Hin Hin O Hin Hin Eng Eng	Hindi
+aaj shaam ko yaad dilana ki kal its exhibition day	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin Eng Eng Eng	Hindi
+10 baje daily essentials laana yaad dilayein	07_CreateReminderAction_lang_tags.txt	O Hin Eng Eng Hin Hin Hin	Hindi
+alarm system ko band karne ka reminder lagao when i leave for office	07_CreateReminderAction_lang_tags.txt	Eng Eng Hin Hin Hin Hin Eng Hin Eng Hin Eng Eng Eng	English
+new dishwasher install karne ka reminder saturday reminders mein daal do	07_CreateReminderAction_lang_tags.txt	Eng Eng Eng Hin Hin Eng Eng Eng Hin Hin Hin	English
+khana khana yaad dilana	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin	Hindi
+agle hafte 10 tarikh college jam session ke baare mein yaad kara dena	07_CreateReminderAction_lang_tags.txt	Hin Hin O Hin Eng Hin Eng Hin Hin Hin Hin Hin Hin	Hindi
+bhool mat jana tennis at nine	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Eng Eng	English
+kal mujhe remind karvana	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Hin	Hindi
+just remind me 2 november ko uthne ke baad excersice karni hai	07_CreateReminderAction_lang_tags.txt	Eng Eng Hin O Hin Hin Hin Hin Hin Eng Hin Hin	Hindi
+subah uthte hi morning walk ke bare me yaad karvana	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Eng Hin Hin Hin Hin Hin	Hindi
+subah aur shaam take medicine mujhe yaad karvana	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Eng Hin Hin Hin	Hindi
+agle hafte mushayara hai reminder set karo	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Eng Eng Hin	Hindi
+mujhe yaad karane ke liye reminder create kariye	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Eng Eng Hin	Hindi
+dinner time par yaad karvao give surprise	07_CreateReminderAction_lang_tags.txt	Eng Eng Hin Hin Hin Eng Eng	English
+meeting ka 9 baje ka reminder lagao	07_CreateReminderAction_lang_tags.txt	Eng Hin O Hin Hin Eng Hin	Hindi
+mujhe ek reminder set karna hai dinner ke naam se kal 7 pm ke liye	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Eng Hin Hin Eng Hin Hin Hin Hin O Eng Hin Hin	Hindi
+har saal on november second roopa ka birthday aata hai yaad se mujhe remind karaana	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Hin Eng Hin Hin Eng Hin Hin Hin Hin Hin Eng Hin	Hindi
+tiger ko walk pe le jaane ka ek reminder set karo 6 pm ka	07_CreateReminderAction_lang_tags.txt	Eng Hin Eng Hin Hin Hin Hin Hin Eng Eng Hin O Eng Hin	Hindi
+laptop service naam se reminder banao	07_CreateReminderAction_lang_tags.txt	Eng Eng Hin Hin Eng Hin	English
+har roz kasrat karne ka reminder set karo	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Eng Eng Hin	Hindi
+mujhe yaad karvana this friday at 8 pm puja's housewarming party	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Hin Eng O Eng Eng Eng Eng	English
+2:15 par ek reminder set karna	07_CreateReminderAction_lang_tags.txt	O Hin Hin Eng Eng Hin	Hindi
+call sis naam se ek reminder banayein	07_CreateReminderAction_lang_tags.txt	Eng Hin Hin Hin Hin Eng Hin	Hindi
+reminder banayein har hafte wednesday ke liye sustana zarori hai	07_CreateReminderAction_lang_tags.txt	Eng Hin Hin Hin Hin Hin Hin Hin Hin Hin	Hindi
+ek new reminder lagayein ravivar raat ko india's got talent show ke liye	07_CreateReminderAction_lang_tags.txt	Hin Eng Eng Hin Hin Hin Hin Eng Eng Eng Eng Hin Hin	Hindi
+just remind me uthte hi excersice karni hai	07_CreateReminderAction_lang_tags.txt	Eng Eng Hin Hin Hin Eng Hin Hin	Hindi
+angad ki saalgirah monday ko hai remind karana	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Hin	Hindi
+mere liye ek reminder laga agle mahine ke liye at 5 pm for travel to germany	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin Hin Hin Eng O Eng Eng Eng Eng Eng	Hindi
+mere liye ek reminder set kia jae to buy groceries from the departmental store at 2 pm	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Eng Hin Hin Eng Eng Eng Eng Eng Eng Eng Eng O Eng	English
+reminder banao	07_CreateReminderAction_lang_tags.txt	Eng Hin	English
+agle mahine ki das ko dance program ke baare mein yaad karvaiyega	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Eng Eng Hin Hin Hin Hin Hin	Hindi
+aj ke liye set reminder please to make cookies for rahul	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Eng Hin Eng Eng Eng Eng Hin	English
+set a reminder at 10 am tomorrow morning interview pe jana hai	07_CreateReminderAction_lang_tags.txt	Eng Eng Eng Eng O Hin Eng Eng Eng Hin Hin Hin	English
+ek reminder lagana zara	07_CreateReminderAction_lang_tags.txt	Hin Eng Hin Hin	Hindi
+go to library naam se har sunday ko subah mein remind karana	07_CreateReminderAction_lang_tags.txt	Hin Eng Eng Hin Hin Hin Hin Hin Hin Hin Eng Hin	Hindi
+har varsh paanch july ko deshpande ki barsi hai yaad rakhiyega	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin Hin Hin Hin Hin	Hindi
+8:15 par yaad dilayega mujhe apni watch ko charging pe lagana hai	07_CreateReminderAction_lang_tags.txt	O Hin Hin Hin Hin Hin Eng Hin Eng Hin Hin Hin	Hindi
+meera ki dentist appointment hai 16 october ki yaad rakhna	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Eng Hin O Hin Hin Hin Hin	Hindi
+kal routine medical check up ke liye ek reminder lagao subah mein	07_CreateReminderAction_lang_tags.txt	Hin Eng Eng Eng Eng Hin Hin Hin Eng Hin Hin Hin	Hindi
+kya ek reminder set kar sakte ho agle mahine ki 2 tareekh ka ?	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Eng Hin Hin Hin Hin Hin Hin O Hin Hin O	Hindi
+mere liye reminder lagaiye kal subah uth kar trash can khali karna hai	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin Hin Eng Eng Hin Hin Hin	Hindi
+remind karvao har weekend ko to practice badminton	07_CreateReminderAction_lang_tags.txt	Eng Hin Hin Eng Hin Eng Eng Eng	English
+mujhe ek reminder rakhna hai	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Hin Hin	Hindi
+aaj ke liye drums practice namak reminder create kariye jo five minutes to five par baje	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Eng Hin Eng Eng Hin Hin Eng Eng Eng Eng Hin Hin	English
+ek reminder banao	07_CreateReminderAction_lang_tags.txt	Hin Eng Hin	Hindi
+mere phone par reminder set karo padhne ka	07_CreateReminderAction_lang_tags.txt	Hin Eng Hin Eng Eng Hin Hin Hin	Hindi
+mujhe ek reminder laga ke do zara for tea break at 5 pm tomorrow	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin Eng Eng Eng Eng O Eng Eng	English
+5 pm evening remind karana online shopping ke liye	07_CreateReminderAction_lang_tags.txt	O Eng Eng Eng Hin Eng Eng Hin Hin	English
+27 july ko raat 10:20 par aane wale tv program ke liye 10 minute pehle reminder create karo	07_CreateReminderAction_lang_tags.txt	O Hin Hin Hin O Hin Hin Hin Hin Eng Hin Hin O Eng Hin Eng Eng Hin	Hindi
+can you please set a reminder ki kites kharidni hai	07_CreateReminderAction_lang_tags.txt	Eng Hin Hin Eng Eng Eng Hin Eng Hin Hin	English
+mujhe yaad rakhna hai mausa ji ko call karna ek reminder save karo	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin Eng Hin Hin Eng Eng Hin	Hindi
+ravivaar ko dopahar 1 baje church jaane ka ek weekly reminder chahiye	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin O Hin Eng Hin Hin Hin Eng Eng Hin	Hindi
+mera reminder abi set karo ki raat ko sir pe tel lagana hai	07_CreateReminderAction_lang_tags.txt	Hin Eng Hin Eng Hin Hin Hin Hin Hin Hin Hin Hin Hin	Hindi
+kya tum reminders create kar sakte ho mere liye	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Eng Hin Hin Hin Hin Hin	Hindi
+please remind me 12th november ko uthne ke baad room clean karna hai	07_CreateReminderAction_lang_tags.txt	Hin Eng Hin Eng Hin Hin Hin Hin Hin Eng Eng Hin Hin	Hindi
+paudhon ko paani dene ka reminder banaiye	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Eng Hin	Hindi
+december mein 23rd ka reminder laga do start chritmas cooking	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Hin Eng Hin Hin Eng Eng Eng	English
+mujhe ek naya reminder banana hai	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Hin Hin	Hindi
+reminders mein ja kar ek new shopping list banao	07_CreateReminderAction_lang_tags.txt	Eng Hin Hin Hin Hin Eng Eng Eng Hin	Hindi
+mujhe har din ser par jaane ko remind karvao	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin Eng Hin	Hindi
+2nd october ko mujhe remind karana ki office outing hai	07_CreateReminderAction_lang_tags.txt	Eng Hin Hin Hin Eng Hin Hin Eng Eng Hin	Hindi
+jaldi se ek reminder lagayiye envelope kharidna hai kal hi	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Hin Eng Hin Hin Hin Hin	Hindi
+please remind me at 12 noon tomorrow ki sasuma ke liye saree kharidni hai	07_CreateReminderAction_lang_tags.txt	Hin Eng Hin Eng O Eng Eng Hin Hin Hin Hin Hin Hin Hin	Hindi
+sirf ek baar ke liye ye reminder banao navpreet ko uske birthday par call karne ke liye	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Hin Hin Hin Hin Eng Hin Eng Hin Hin Hin	Hindi
+meri important meeting ka kal subah mein reminder laga do	07_CreateReminderAction_lang_tags.txt	Hin Eng Eng Hin Hin Hin Hin Eng Hin Hin	Hindi
+mere liye ek reminder banaiye	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Hin	Hindi
+ghar se nikalne se pehle do puja naam ka ek reminder bana do	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin Hin Hin Hin Eng Hin Hin	Hindi
+aj ek reminder ste kijiye raat ko 11 baje ka bedtime ke naam se	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin O Hin Hin Eng Hin Hin Hin	Hindi
+mujhe kal market se doodh lekar ane ke liye yaad dilana	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin Hin Hin Hin Hin	Hindi
+gopal sweets par pahunchte hi yaad dilana to buy rasgulla	07_CreateReminderAction_lang_tags.txt	Hin Eng Hin Hin Hin Hin Hin Eng Eng Hin	Hindi
+har varsh 26 july ko deshpande ka janam din hai remind karvana	07_CreateReminderAction_lang_tags.txt	Hin Hin O Hin Hin Hin Hin Hin Hin Hin Eng Hin	Hindi
+june 27th se lekar agle do hafte ke liye football practice reminder banao	07_CreateReminderAction_lang_tags.txt	Hin Eng Hin Hin Hin Hin Hin Hin Hin Eng Eng Eng Hin	Hindi
+mujhe har din walnuts khane ke liye remind karvao	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin Eng Hin	Hindi
+reminder set karo naam anniversary	07_CreateReminderAction_lang_tags.txt	Eng Eng Hin Hin Eng	English
+office pahunchne se pehle bank jaana hai alert lagayein mujhe yaad karvane ke liye	07_CreateReminderAction_lang_tags.txt	Eng Hin Hin Hin Eng Hin Hin Eng Hin Hin Hin Hin Hin Hin	Hindi
+today there is party bhoolna nahi	07_CreateReminderAction_lang_tags.txt	Eng Eng Eng Eng Hin Hin	English
+mujhe remind karvana shaam 7 baje to call up mausa ji	07_CreateReminderAction_lang_tags.txt	Hin Eng Hin Hin O Hin Eng Eng Eng Hin Hin	Hindi
+kripaya ek reminder laga dijiye doodh lekar aane ka	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin Hin Hin	Hindi
+time to wake up naam se ek reminder banao kal subah 6 baje	07_CreateReminderAction_lang_tags.txt	Eng Eng Eng Eng Hin Hin Hin Eng Hin Hin Hin O Hin	Hindi
+2 november ko mujhe yaad dilana ki doctor appointment hai	07_CreateReminderAction_lang_tags.txt	O Hin Hin Hin Hin Hin Hin Eng Eng Hin	Hindi
+aaj shaam samsung stores par sale hai mujhe yaad dila dena	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Eng Hin Eng Hin Hin Hin Hin Hin	Hindi
+subah uthte hi exercise ke liye remind karvana	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Hin Hin Eng Hin	Hindi
+jaldi se mere liye ek reminder set kijiye 4 baje suresh ko station pe receive karna hai	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Eng Eng Hin O Hin Eng Hin Eng Hin Eng Hin Hin	Hindi
+aap ek reminder laga dijiye kal dopahar 2 baje ke liye naming it lunch	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin O Hin Hin Hin Eng Eng Eng	Hindi
+biryani pick up karne ke liye raat 9 baje ka reminder set karo	07_CreateReminderAction_lang_tags.txt	Hin Eng Eng Hin Hin Hin Hin O Hin Hin Eng Eng Hin	Hindi
+26 june ka ek reminder lagao jiska naam rakho tarana birthday	07_CreateReminderAction_lang_tags.txt	O Hin Hin Hin Eng Hin Hin Hin Hin Hin Eng	Hindi
+to wash clothes bhi ek reminder hona chanhiye	07_CreateReminderAction_lang_tags.txt	Eng Eng Eng Hin Hin Eng Hin Hin	English
+half hour mein mujhe uthkar walk karne ko yaad dilayein	07_CreateReminderAction_lang_tags.txt	Eng Eng Hin Hin Hin Eng Hin Hin Hin Hin	Hindi
+bhoolna nahi mujhe phone charger buy karna hai radio shack se	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Eng Eng Hin Hin Eng Eng Hin	Hindi
+aaj raat ke liye ek reminder create kijiye	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Eng Eng Hin	Hindi
+research on pandemic discussion ka reminder laga do	07_CreateReminderAction_lang_tags.txt	Eng Eng Eng Eng Hin Eng Hin Hin	English
+remind me kuch der mein walk par jaana hai	07_CreateReminderAction_lang_tags.txt	Eng Hin Hin Hin Hin Eng Hin Hin Hin	Hindi
+reminder create karo aur usko naam do kirane ka samaan	07_CreateReminderAction_lang_tags.txt	Eng Eng Hin Hin Hin Hin Hin Hin Hin Hin	Hindi
+create reminder raat ke khana damandeep ke ghar par	07_CreateReminderAction_lang_tags.txt	Eng Eng Hin Hin Hin Hin Hin Hin Hin	Hindi
+please ek alert set kar do to catch the flight tomorrow	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Eng Hin Hin Eng Eng Eng Eng Eng	English
+ek reminder lagao doctor's appointment kal subah 9:30 baje ka	07_CreateReminderAction_lang_tags.txt	Hin Eng Hin Eng Eng Hin Hin O Hin Hin	Hindi
+mujhe yaad karana to buy groceries	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Eng Eng	English
+kal ke liye ek reminder save karo	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Eng Eng Hin	Hindi
+go to bank namak reminder save kijiye aaj ke liye	07_CreateReminderAction_lang_tags.txt	Hin Eng Eng Hin Eng Eng Hin Hin Hin Hin	Hindi
+mujhe har din walk par jaane ko satark karo	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin Hin Hin	Hindi
+plants ko water karna hai esa ek reminder lagao	07_CreateReminderAction_lang_tags.txt	Eng Hin Eng Hin Hin Hin Hin Eng Hin	Hindi
+kya tum mujhe remind kara sakte ho ki maasi ko sandesh bhejna hai	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin Hin Hin Hin Hin Hin Hin	Hindi
+1st march ko annual vacation ka plan karne ke liye yaad dilayiga	07_CreateReminderAction_lang_tags.txt	Eng Eng Hin Eng Eng Hin Eng Hin Hin Hin Hin Hin	Hindi
+mujhe remind karvana na bhoolna ki next thursday property agent ke saath meeting hai	07_CreateReminderAction_lang_tags.txt	Hin Eng Hin Hin Hin Hin Eng Hin Eng Eng Hin Hin Eng Hin	Hindi
+mujhe ek reminder set karna hai	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Eng Hin Hin	Hindi
+mujhe yaad dilana bua ji ko call karne ka	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Hin Hin	Hindi
+mere liye ek reminder banaoge kya	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Hin Hin	Hindi
+wake up namak ek reminder create karein kal subah 6 baje ke liye	07_CreateReminderAction_lang_tags.txt	Eng Eng Hin Hin Eng Eng Hin Hin Hin O Hin Hin Hin	Hindi
+kya ek new reminder ban sakta hai	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Eng Hin Hin Hin	Hindi
+kya ek reminder bana sakte hain	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Hin Hin Hin	Hindi
+kya ek reminder set kia ja sakta hai for me ?	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Eng Hin Hin Hin Hin Eng Hin O	Hindi
+put a reminder ki office ke liye printer kharidna hai	07_CreateReminderAction_lang_tags.txt	Eng Eng Eng Hin Eng Hin Hin Eng Hin Hin	English
+mujhe yaad dilana i've to call puja kal ko	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Eng Eng Hin Hin Hin	Hindi
+reminder create karo office party at 3 pm tomorrow	07_CreateReminderAction_lang_tags.txt	Eng Eng Hin Eng Eng Eng O Eng Eng	English
+set an alert for me to remind me about puja ki haldi ceremony at 9 am kal	07_CreateReminderAction_lang_tags.txt	Eng Eng Eng Eng Hin Eng Eng Hin Eng Hin Hin Hin Eng Eng O Hin Hin	English
+cheeku's birthday naam ka ek reminder set karna	07_CreateReminderAction_lang_tags.txt	Eng Eng Hin Hin Hin Eng Eng Hin	English
+ek reminder lagaiye raat ko 10 baje ka to lock the main door before sleeping	07_CreateReminderAction_lang_tags.txt	Hin Eng Hin Hin Hin O Hin Hin Eng Eng Eng Hin Hin Eng Eng	Hindi
+meri list mein milk add karne ka reminder lagao	07_CreateReminderAction_lang_tags.txt	Hin Eng Hin Eng Eng Hin Hin Eng Hin	Hindi
+kindly reminder set kar do jaldi se jogging jane ka	07_CreateReminderAction_lang_tags.txt	Eng Eng Eng Hin Hin Hin Hin Eng Hin Hin	Hindi
+set a reminder ki school drop karna hai baccho ko 7 am	07_CreateReminderAction_lang_tags.txt	Eng Eng Eng Hin Eng Eng Hin Hin Hin Hin O Hin	Hindi
+raat ka reminder set karo to empty the trash can before sleeping	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Eng Hin Eng Eng Eng Eng Eng Eng Eng	English
+yaad karana on wednesday bill bharne hain	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Hin Eng Hin Hin	Hindi
+reminder set karein	07_CreateReminderAction_lang_tags.txt	Eng Eng Hin	English
+shop for halloween naam wala reminder create karo to	07_CreateReminderAction_lang_tags.txt	Eng Eng Eng Hin Hin Eng Eng Hin Eng	English
+shopping karke ek reminder lagao	07_CreateReminderAction_lang_tags.txt	Eng Hin Hin Eng Hin	Hindi
+everyday jogging karne ko remind karna	07_CreateReminderAction_lang_tags.txt	Hin Eng Hin Hin Eng Hin	Hindi
+reminder set kariye	07_CreateReminderAction_lang_tags.txt	Eng Eng Hin	English
+please ek reminder set karke dijiye guddu's birthday on 2nd july	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Eng Hin Hin Eng Eng Eng Eng Hin	English
+mere ko ek reminder banake doge	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Hin Hin	Hindi
+event list karke reminder lagayein	07_CreateReminderAction_lang_tags.txt	Eng Eng Hin Eng Hin	English
+mujhe remind karvana na bhoolna ki next week meeting hai	07_CreateReminderAction_lang_tags.txt	Hin Eng Hin Hin Hin Hin Eng Eng Eng Hin	Hindi
+har saal on november 2nd roopa ka birthday aata hai yaad kar lo	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Hin Eng Hin Hin Eng Hin Hin Hin Hin Hin	Hindi
+main ek reminder banana chahungi	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Hin Hin	Hindi
+dinner time ke liye reminder banayein	07_CreateReminderAction_lang_tags.txt	Eng Eng Hin Hin Eng Hin	English
+kya ek reminder laga sakte ho farewell party on 7th of jan ?	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Hin Hin Hin Eng Eng Eng Eng Eng Hin O	English
+mujhe reminder create karna hai	07_CreateReminderAction_lang_tags.txt	Hin Eng Eng Hin Hin	Hindi
+mere kal ke calendar mein har voice call ka reminder save karo	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Hin Hin Eng Eng Hin Eng Eng Hin	Hindi
+ballet class ke naam se ek reminder create karna	07_CreateReminderAction_lang_tags.txt	Hin Eng Hin Hin Hin Hin Eng Eng Hin	Hindi
+agle hafte thursday ko 2 open house ka reminder rakho	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin O Eng Eng Hin Eng Hin	Hindi
+subah uthte hi yoga session hai yaad karvana	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Eng Hin Hin Hin	Hindi
+har roz ke liye ek reminder lagao subah 5 baje tommy ko park leke jana hai	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Eng Hin Hin O Hin Hin Hin Eng Hin Hin Hin	Hindi
+family game night ke naam wala ek reminder lagao every friday	07_CreateReminderAction_lang_tags.txt	Eng Eng Eng Hin Hin Hin Hin Eng Hin Eng Hin	Hindi
+please ek reminder save karo	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Eng Hin	Hindi
+mujhe yaad dilana ki kal bachhon ko main pick up kar rahi hun from school	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin Hin Eng Eng Hin Hin Hin Eng Eng	Hindi
+satark karein mujhe kal subah 8 baje college ka exam hai	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin O Hin Eng Hin Eng Hin	Hindi
+aaj shaam ki liye photo ops ka reminder set karo	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Eng Eng Hin Eng Eng Hin	Hindi
+bag pack karne ka reminder raat ke liye banana	07_CreateReminderAction_lang_tags.txt	Hin Eng Hin Hin Eng Hin Hin Hin Hin	Hindi
+coffee ko reminders mein shamil karo	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Hin Hin Hin	Hindi
+could you please set a reminder ki mujhe roz 8 glass pani peena hai	07_CreateReminderAction_lang_tags.txt	Eng Hin Hin Eng Eng Eng Hin Hin Hin O Eng Hin Hin Hin	Hindi
+har thursday ko reminder lagao zumba workout ke naam se	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Hin Hin Eng Hin Hin Hin	Hindi
+har subah yoga reminder bana dijiye	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Eng Hin Hin	Hindi
+please ek bar reminder laga do raat ko dawai khani hai backache ki	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin Hin Hin Hin Hin Eng Hin	Hindi
+har saal on twenty sixth july puja ka birthday hai yaad kariyega	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Eng Eng Hin Hin Hin Eng Hin Hin Hin	Hindi
+please reminder set karo zara kal dopahar 2 baje ke liye interview	07_CreateReminderAction_lang_tags.txt	Hin Eng Eng Hin Hin Hin Hin O Hin Hin Hin Eng	Hindi
+ek new reminder to lagao	07_CreateReminderAction_lang_tags.txt	Hin Eng Eng Eng Hin	English
+aaj raat dinner ka reminder create karo	07_CreateReminderAction_lang_tags.txt	Hin Hin Eng Hin Eng Eng Hin	Hindi
+please mere liye ek reminder lagao kal 9 baje fever ki dawai khani hai	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Eng Hin Hin O Hin Hin Hin Hin Hin Hin	Hindi
+mujhe yaad karvana nahi bhoolna ki agle mahine pura mahina its exam time	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin Hin Hin Hin Eng Eng Eng	Hindi
+jab daftar pahunchun to chhutti ki arzi dene ka remind zaroor karaana	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin Hin Hin Eng Hin Hin	Hindi
+tuesday raat ko 9 baje wale serial ke liye 5 minute pehle reminder lagao	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin O Hin Hin Eng Hin Hin O Eng Hin Eng Hin	Hindi
+afternoon 3 pm ke liye ek reminder set kariye	07_CreateReminderAction_lang_tags.txt	Eng O Eng Hin Hin Hin Eng Eng Hin	English
+can you set a reminder mere liye to drink coffee at 8 am everyday ?	07_CreateReminderAction_lang_tags.txt	Eng Hin Eng Eng Eng Hin Hin Eng Eng Hin Eng O Hin Hin O	English
+mujhe yaad karvana this friday at 8 pm puja's housewarming party	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Hin Eng O Eng Eng Eng Eng	English
+please mujhe ek reminder set karke do for tomorrow 7 am naming it school time	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Eng Hin Hin Eng Eng O Hin Eng Eng Eng Eng	English
+ek reminder create karo	07_CreateReminderAction_lang_tags.txt	Hin Eng Eng Hin	English
+meditation class ke baare mein remind karvana	07_CreateReminderAction_lang_tags.txt	Eng Eng Hin Hin Hin Eng Hin	Hindi
+please mere liye reminder lagao ki office me conference hai at 4 pm this friday	07_CreateReminderAction_lang_tags.txt	Hin Hin Hin Eng Hin Hin Eng Hin Eng Hin Eng O Eng Eng Hin	Hindi

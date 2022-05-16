@@ -1,0 +1,111 @@
+capture the screen	02_CaptureScreen_lang_tags.txt	Eng Eng Eng	English
+zara mere mobile ki screen ka ek screenshot lena	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Eng Hin Hin Eng Hin	Hindi
+ek snapshot lo mere cellphone screen ka	02_CaptureScreen_lang_tags.txt	Hin Eng Hin Hin Eng Eng Hin	Hindi
+screenshot to lo zara	02_CaptureScreen_lang_tags.txt	Eng Eng Hin Hin	English
+kripaya ye screen ka chitra save kijiye	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Hin Eng Hin	Hindi
+please ek screenshot le lo	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Hin	Hindi
+mera ek screen ka shot liyo zara	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Eng Hin Hin	Hindi
+fatafat ek screenshot lo	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin	Hindi
+please take screenshot mere phone ke display ka	02_CaptureScreen_lang_tags.txt	Hin Eng Eng Hin Eng Hin Eng Hin	English
+kia screenshot ke sakte hain please	02_CaptureScreen_lang_tags.txt	Hin Eng Hin Hin Hin Hin	Hindi
+snapshot lo mere phone ki screen ka	02_CaptureScreen_lang_tags.txt	Eng Hin Hin Eng Hin Eng Hin	Hindi
+screenshot save karo	02_CaptureScreen_lang_tags.txt	Eng Eng Hin	English
+take a screenshot	02_CaptureScreen_lang_tags.txt	Eng Eng Eng	English
+kya mere phone ki screen ka ek screenshot le sakte ho ?	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Eng Hin Hin Eng Hin Hin Hin O	Hindi
+kya mere phone ke display ka picture le sakte ho ?	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Eng Hin Eng Hin Hin Hin O	Hindi
+kya tum mere phone ki screen ka pic ke sakte ho ?	02_CaptureScreen_lang_tags.txt	Hin Hin Hin Eng Hin Eng Hin Eng Hin Hin Hin O	Hindi
+screenshot khichne k baad save kijiye please	02_CaptureScreen_lang_tags.txt	Eng Hin Hin Hin Eng Hin Hin	Hindi
+mere phone pe jo dikh raha hai uska screen shot lo	02_CaptureScreen_lang_tags.txt	Hin Eng Hin Hin Hin Hin Hin Hin Eng Eng Hin	Hindi
+kia ek screenshot le sakte hain	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Hin Hin	Hindi
+mere phopne ke page ka screenshot lo	02_CaptureScreen_lang_tags.txt	Hin Hin Hin Eng Hin Eng Hin	Hindi
+jaldi se ye wali screen ka ek chitra lijiye aur gallery mein save karien	02_CaptureScreen_lang_tags.txt	Hin Hin Hin Hin Eng Hin Hin Hin Hin Hin Eng Hin Eng Hin	Hindi
+mere phone ke wallpaper ka screenshot lo	02_CaptureScreen_lang_tags.txt	Hin Eng Hin Eng Hin Eng Hin	Hindi
+please ek scren shot le ke do	02_CaptureScreen_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin	Hindi
+screenshot lo aur picture save karoscreen ko capture karo	02_CaptureScreen_lang_tags.txt	Eng Hin Hin Eng Eng Eng Hin Eng Hin	English
+is page ka screenshot le lo	02_CaptureScreen_lang_tags.txt	Eng Eng Hin Eng Hin Hin	English
+jaldi se ye screen ko picture mein save karo	02_CaptureScreen_lang_tags.txt	Hin Hin Hin Eng Hin Eng Hin Eng Hin	Hindi
+screen ka shot lena	02_CaptureScreen_lang_tags.txt	Eng Hin Eng Hin	English
+mujhe is page ka screenshot chahiye	02_CaptureScreen_lang_tags.txt	Hin Eng Eng Hin Eng Hin	English
+screenshot kheencho	02_CaptureScreen_lang_tags.txt	Eng Hin	English
+jaldi se screen shot lo	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Eng Hin	Hindi
+is webpage ka ek screenshot lo	02_CaptureScreen_lang_tags.txt	Eng Eng Hin Hin Eng Hin	English
+ye wali screen ko capture kar lo	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Eng Hin Hin	Hindi
+kia app ye screenshot le sakte hain	02_CaptureScreen_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin	Hindi
+is screen ki photo khheencho	02_CaptureScreen_lang_tags.txt	Eng Eng Hin Eng Hin	English
+screen ka ek snapshot le	02_CaptureScreen_lang_tags.txt	Eng Hin Hin Eng Hin	Hindi
+jaldi se screenshot le mere phone ka	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Hin Eng Hin	Hindi
+please mobile phone pe jo displayed hai uska screenshot lo	02_CaptureScreen_lang_tags.txt	Hin Eng Eng Hin Hin Eng Hin Hin Eng Hin	Hindi
+is page ka screenshot lene me meri help kar do	02_CaptureScreen_lang_tags.txt	Eng Eng Hin Eng Hin Hin Hin Eng Hin Hin	Hindi
+ye wali sreen ka chitra save karo	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Hin Eng Hin	Hindi
+koi screenshot lijiye please	02_CaptureScreen_lang_tags.txt	Hin Eng Hin Hin	Hindi
+kripaya ek screenshot le lijiye	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Hin	Hindi
+jaldi se mere cellphone screen ka ek snapshot lo	02_CaptureScreen_lang_tags.txt	Hin Hin Hin Eng Eng Hin Hin Eng Hin	Hindi
+screen ki photo lo	02_CaptureScreen_lang_tags.txt	Eng Hin Eng Hin	English
+kia screenshot save kar sakte hain	02_CaptureScreen_lang_tags.txt	Hin Eng Eng Hin Hin Hin	Hindi
+mujhe ye screenshot baad ke liye chahiye	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin	Hindi
+is screen page ki photo click kar	02_CaptureScreen_lang_tags.txt	Eng Eng Eng Hin Eng Eng Hin	English
+screenshot save kijiye please	02_CaptureScreen_lang_tags.txt	Eng Eng Hin Hin	English
+ek screenshot le lijiye	02_CaptureScreen_lang_tags.txt	Hin Eng Hin Hin	Hindi
+screen ka picture ko khicho	02_CaptureScreen_lang_tags.txt	Eng Hin Eng Hin Hin	Hindi
+screen ki picture nikalo	02_CaptureScreen_lang_tags.txt	Eng Hin Eng Hin	English
+jaldi se ye screenshot ko capture karien	02_CaptureScreen_lang_tags.txt	Hin Hin Hin Eng Hin Eng Hin	Hindi
+kya tum mere liye ek screenshot le sakte ho ?	02_CaptureScreen_lang_tags.txt	Hin Hin Hin Hin Hin Eng Hin Hin Hin O	Hindi
+if possible mere phone ki screen ka ek screen shot lekar rakho	02_CaptureScreen_lang_tags.txt	Eng Eng Hin Eng Hin Eng Hin Hin Eng Eng Hin Hin	English
+please screenshot le ljiye	02_CaptureScreen_lang_tags.txt	Hin Eng Hin Hin	Hindi
+kripaya screenshot lijiye	02_CaptureScreen_lang_tags.txt	Hin Eng Hin	Hindi
+take a picture mere phone ke display page ka	02_CaptureScreen_lang_tags.txt	Eng Eng Eng Hin Eng Hin Eng Eng Hin	English
+please ye wali screen ki chitra lp	02_CaptureScreen_lang_tags.txt	Hin Hin Hin Eng Hin Hin Eng	Hindi
+kya mere cellphone se ek screenshot liya ja sakta hai ?	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Hin Eng Hin Hin Hin Hin O	Hindi
+zara mere cell ki screen ka ek shot le lo	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Eng Hin Hin Eng Hin Hin	Hindi
+ye waali screen ki photo kheencho	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Eng Hin	Hindi
+iska screenshot lekar save karo	02_CaptureScreen_lang_tags.txt	Hin Eng Hin Eng Hin	Hindi
+iska screenshot lo please	02_CaptureScreen_lang_tags.txt	Hin Eng Hin Hin	Hindi
+please ek snapshot le lo screen ka	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Hin Eng Hin	Hindi
+mujhe screenshot lena hai	02_CaptureScreen_lang_tags.txt	Hin Eng Hin Hin	Hindi
+screenshot le lo na of my phone's screen	02_CaptureScreen_lang_tags.txt	Eng Hin Hin Hin Eng Eng Eng Eng	English
+ye jo screen hai iski tasviir save karo	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Hin Hin Eng Hin	Hindi
+kripaya ye screen ka chitra ko gallery mein save kijiye	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Hin Hin Eng Hin Eng Hin	Hindi
+get a screen shot of this mere phone pe	02_CaptureScreen_lang_tags.txt	Eng Eng Eng Eng Eng Eng Hin Eng Hin	English
+screenshot ko gallery mein save karo	02_CaptureScreen_lang_tags.txt	Eng Hin Eng Hin Eng Hin	English
+ek shot liyo zara screen ka	02_CaptureScreen_lang_tags.txt	Hin Eng Hin Hin Eng Hin	Hindi
+ise screenshot ki tarah save karo	02_CaptureScreen_lang_tags.txt	Hin Eng Hin Hin Eng Hin	Hindi
+screenshot le le	02_CaptureScreen_lang_tags.txt	Eng Hin Hin	Hindi
+kripaya screenshot khicho	02_CaptureScreen_lang_tags.txt	Hin Eng Hin	Hindi
+snap le ke do mere cellphone display ka	02_CaptureScreen_lang_tags.txt	Eng Hin Hin Hin Hin Eng Eng Hin	Hindi
+mere phone ke display ka screen shot le kar rakho	02_CaptureScreen_lang_tags.txt	Hin Eng Hin Eng Hin Eng Eng Hin Hin Hin	Hindi
+screen picture kicho	02_CaptureScreen_lang_tags.txt	Eng Eng Hin	English
+screenshot lijiye aur gallery mein save kijiye	02_CaptureScreen_lang_tags.txt	Eng Hin Hin Eng Hin Eng Hin	Hindi
+is page ki picture click karo	02_CaptureScreen_lang_tags.txt	Eng Eng Hin Eng Eng Hin	English
+please mere phone ki screen ka ek shot le lo	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Eng Hin Hin Eng Hin Hin	Hindi
+screen ki picture khincho	02_CaptureScreen_lang_tags.txt	Eng Hin Eng Hin	English
+screen ki picture save kijiye	02_CaptureScreen_lang_tags.txt	Eng Hin Eng Eng Hin	English
+please tum ek snapshot le lo na	02_CaptureScreen_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin	Hindi
+please capture the screen	02_CaptureScreen_lang_tags.txt	Hin Eng Eng Eng	English
+kia ye wali screen k chitra khich sakte hain	02_CaptureScreen_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin Hin Hin	Hindi
+screenshot ko lijiye	02_CaptureScreen_lang_tags.txt	Eng Hin Hin	Hindi
+turant mere cellphone ka ek screenshot lekar dikhao	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Hin Eng Hin Hin	Hindi
+iska screenshot kheencho	02_CaptureScreen_lang_tags.txt	Hin Eng Hin	Hindi
+screen picture ko save karo	02_CaptureScreen_lang_tags.txt	Eng Eng Hin Eng Hin	English
+ek screenshot lo zara	02_CaptureScreen_lang_tags.txt	Hin Eng Hin Hin	Hindi
+mujhe screenshot chahiye	02_CaptureScreen_lang_tags.txt	Hin Eng Hin	Hindi
+is screen ki photo lena zara	02_CaptureScreen_lang_tags.txt	Eng Eng Hin Eng Hin Hin	English
+fatafat ek screenshot lo is picture ka	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Eng Eng Hin	Hindi
+please mere mobile ki screen ka ek shot lo	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Eng Hin Hin Eng Hin	Hindi
+please screenshot capture kijiye	02_CaptureScreen_lang_tags.txt	Hin Eng Eng Hin	English
+ek screenshot to lo	02_CaptureScreen_lang_tags.txt	Hin Eng Eng Hin	English
+ho sake to is page ka ek screen shot le lo	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Eng Eng Hin Hin Eng Eng Hin Hin	Hindi
+kripaya screenshot lene k baad gallery mein save karen	02_CaptureScreen_lang_tags.txt	Hin Eng Hin Hin Hin Eng Hin Eng Hin	Hindi
+please screen pe jo hai uska shot le lo	02_CaptureScreen_lang_tags.txt	Hin Eng Hin Hin Hin Hin Eng Hin Hin	Hindi
+jaldi screen shot khicho	02_CaptureScreen_lang_tags.txt	Hin Eng Eng Hin	English
+ye phone screen ki picture lekar save karo	02_CaptureScreen_lang_tags.txt	Hin Eng Eng Hin Eng Hin Eng Hin	English
+please screenshot capture karo	02_CaptureScreen_lang_tags.txt	Hin Eng Eng Hin	English
+please ye screenshot ko save kijiye	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Eng Hin	Hindi
+help me take a screenshot mere phone ka	02_CaptureScreen_lang_tags.txt	Eng Hin Eng Eng Eng Hin Eng Hin	English
+mere phone ke screen ko capture karo	02_CaptureScreen_lang_tags.txt	Hin Eng Hin Eng Hin Eng Hin	Hindi
+phone ka ek screen shot le lo	02_CaptureScreen_lang_tags.txt	Eng Hin Hin Eng Eng Hin Hin	Hindi
+screenshot khicho	02_CaptureScreen_lang_tags.txt	Eng Hin	English
+screenshot le lo	02_CaptureScreen_lang_tags.txt	Eng Hin Hin	Hindi
+is screen ka ek shot lekar do	02_CaptureScreen_lang_tags.txt	Eng Eng Hin Hin Eng Hin Hin	Hindi
+please mere phone ki screen ka ek snap lo	02_CaptureScreen_lang_tags.txt	Hin Hin Eng Hin Eng Hin Hin Eng Hin	Hindi
+screen ka snapshot lo	02_CaptureScreen_lang_tags.txt	Eng Hin Eng Hin	English
+capture mere mobile phone ka screen	02_CaptureScreen_lang_tags.txt	Eng Hin Eng Eng Hin Eng	English

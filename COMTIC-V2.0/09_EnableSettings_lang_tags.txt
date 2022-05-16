@@ -1,0 +1,108 @@
+wifi start kariye	09_EnableSettings_lang_tags.txt	Eng Eng Hin	English
+mera do not disturb mode on karke do	09_EnableSettings_lang_tags.txt	Hin Hin Eng Eng Eng Eng Hin Hin	English
+mobile hotspot chalu kariye	09_EnableSettings_lang_tags.txt	Eng Eng Hin Hin	English
+bluetooth ko suru kijiye	09_EnableSettings_lang_tags.txt	Eng Hin Hin Hin	Hindi
+gps ko chalao	09_EnableSettings_lang_tags.txt	Eng Hin Hin	Hindi
+auto sync mode ko off kar do na	09_EnableSettings_lang_tags.txt	Eng Eng Eng Hin Eng Hin Hin Hin	English
+kripaya flashlight ko turn on karien	09_EnableSettings_lang_tags.txt	Hin Eng Hin Eng Eng Hin	English
+ye jo flashlight hai isko on ka	09_EnableSettings_lang_tags.txt	Hin Hin Eng Hin Hin Eng Hin	Hindi
+mera bluetooth on hai kya ?	09_EnableSettings_lang_tags.txt	Hin Eng Eng Hin Hin O	Hindi
+bluetooth ko on karen	09_EnableSettings_lang_tags.txt	Eng Hin Eng Hin	English
+kripaya dark mode on kar sakte hain	09_EnableSettings_lang_tags.txt	Hin Eng Eng Eng Hin Hin Hin	Hindi
+blue tooth ko turn on kariye	09_EnableSettings_lang_tags.txt	Eng Eng Hin Eng Eng Hin	English
+do not disturb mode ko ab off kia ja sakta hai	09_EnableSettings_lang_tags.txt	Hin Eng Eng Eng Hin Hin Eng Hin Hin Hin Hin	Hindi
+bluetooth sakriya kar do	09_EnableSettings_lang_tags.txt	Eng Hin Hin Hin	Hindi
+auto sync turant off karo	09_EnableSettings_lang_tags.txt	Eng Eng Hin Eng Hin	English
+do not disturb on kar do	09_EnableSettings_lang_tags.txt	Hin Eng Eng Eng Hin Hin	English
+torch light on kijiye	09_EnableSettings_lang_tags.txt	Eng Eng Eng Hin	English
+mobile hotspot on karein	09_EnableSettings_lang_tags.txt	Eng Eng Eng Hin	English
+kripaya flash light to turn on kijiye	09_EnableSettings_lang_tags.txt	Hin Eng Eng Eng Eng Eng Hin	English
+hey bixby bluetooth on karo	09_EnableSettings_lang_tags.txt	Hin Eng Eng Eng Hin	English
+turant mere phone me dark mode on karo	09_EnableSettings_lang_tags.txt	Hin Hin Eng Hin Eng Eng Eng Hin	English
+please location off karo	09_EnableSettings_lang_tags.txt	Hin Eng Eng Hin	English
+blutooth on kar do	09_EnableSettings_lang_tags.txt	Hin Eng Hin Hin	Hindi
+hotspot ko chalaiye please	09_EnableSettings_lang_tags.txt	Eng Hin Hin Hin	Hindi
+abhi power mode ko off karo sakte hai	09_EnableSettings_lang_tags.txt	Hin Eng Eng Hin Eng Hin Hin Hin	Hindi
+auto sync on kara ja sakta hai kya ?	09_EnableSettings_lang_tags.txt	Eng Eng Eng Hin Hin Hin Hin Hin O	Hindi
+gps ko on karen	09_EnableSettings_lang_tags.txt	Eng Hin Eng Hin	English
+wifi on kar do please	09_EnableSettings_lang_tags.txt	Eng Eng Hin Hin Hin	Hindi
+kya tum torch light ko abhi band kar sakte ho ?	09_EnableSettings_lang_tags.txt	Hin Hin Eng Eng Hin Hin Hin Hin Hin Hin O	Hindi
+please flashlight ko on kijiye	09_EnableSettings_lang_tags.txt	Hin Eng Hin Eng Hin	Hindi
+kia mere phone ka location ko on kar sakte hain	09_EnableSettings_lang_tags.txt	Hin Hin Eng Hin Eng Hin Eng Hin Hin Hin	Hindi
+torch light off kar de	09_EnableSettings_lang_tags.txt	Eng Eng Eng Hin Hin	English
+flashlight off kar	09_EnableSettings_lang_tags.txt	Eng Eng Hin	English
+mere phone par wifi chalu karo	09_EnableSettings_lang_tags.txt	Hin Eng Hin Eng Hin Hin	Hindi
+gps turn on karein	09_EnableSettings_lang_tags.txt	Eng Eng Eng Hin	English
+jaldi se blue tooth off karke de mere mobile phone ka	09_EnableSettings_lang_tags.txt	Hin Hin Eng Eng Eng Hin Hin Hin Eng Eng Hin	Hindi
+auto sync on kijiye	09_EnableSettings_lang_tags.txt	Eng Eng Eng Hin	English
+blue light filter on karo	09_EnableSettings_lang_tags.txt	Eng Eng Eng Eng Hin	English
+turn on sync	09_EnableSettings_lang_tags.txt	Eng Eng Eng	English
+blue light filter ko on kia jai	09_EnableSettings_lang_tags.txt	Eng Eng Eng Hin Eng Hin Hin	English
+please torch on kia jai	09_EnableSettings_lang_tags.txt	Hin Eng Eng Hin Hin	Hindi
+nfc ko on karna hai	09_EnableSettings_lang_tags.txt	Eng Hin Eng Hin Hin	Hindi
+bluetooth on karna abhi ke abhi	09_EnableSettings_lang_tags.txt	Eng Eng Hin Hin Hin Hin	Hindi
+wifi on kijiye	09_EnableSettings_lang_tags.txt	Eng Eng Hin	English
+please turn nfc on	09_EnableSettings_lang_tags.txt	Hin Eng Eng Eng	English
+kya do not disturb mode off kita ja sakta hai ?	09_EnableSettings_lang_tags.txt	Hin Hin Eng Eng Eng Eng Hin Hin Hin Hin O	Hindi
+turn on torch	09_EnableSettings_lang_tags.txt	Eng Eng Eng	English
+flight mode ko off kar sakte ho ?	09_EnableSettings_lang_tags.txt	Eng Eng Hin Eng Hin Hin Hin O	Hindi
+dark mode on kar mere mobile ka	09_EnableSettings_lang_tags.txt	Eng Eng Eng Hin Hin Eng Hin	English
+turn on gps	09_EnableSettings_lang_tags.txt	Eng Eng Eng	English
+wi fi setting ko on karen	09_EnableSettings_lang_tags.txt	Hin Hin Eng Hin Eng Hin	Hindi
+kripaya flight mode ko chalu kijiye	09_EnableSettings_lang_tags.txt	Hin Eng Eng Hin Hin Hin	Hindi
+kripaya power mode ko on kiya jai	09_EnableSettings_lang_tags.txt	Hin Eng Eng Hin Eng Hin Hin	Hindi
+flash light ko jalaye	09_EnableSettings_lang_tags.txt	Eng Eng Hin Hin	English
+mujhe bluetooth chahiye	09_EnableSettings_lang_tags.txt	Hin Eng Hin	Hindi
+please turn on wi fi	09_EnableSettings_lang_tags.txt	Hin Eng Eng Hin Hin	Hindi
+sync mode ko on kiya jai	09_EnableSettings_lang_tags.txt	Eng Eng Hin Eng Hin Hin	English
+mujhe phone par bluetooth chala kar do	09_EnableSettings_lang_tags.txt	Hin Eng Hin Eng Hin Hin Hin	Hindi
+power mode ko chalu kariye	09_EnableSettings_lang_tags.txt	Eng Eng Hin Hin Hin	Hindi
+turn on wifi	09_EnableSettings_lang_tags.txt	Eng Eng Eng	English
+sync off kar do	09_EnableSettings_lang_tags.txt	Eng Eng Hin Hin	English
+kya gps ko band kia ja sakta hai ?	09_EnableSettings_lang_tags.txt	Hin Eng Hin Hin Hin Hin Hin Hin O	Hindi
+kripaya do not diturb mode ko on karo	09_EnableSettings_lang_tags.txt	Hin Hin Eng Eng Eng Hin Eng Hin	English
+mere phone ka wifi off kar do	09_EnableSettings_lang_tags.txt	Hin Eng Hin Eng Eng Hin Hin	Hindi
+please turn on bt	09_EnableSettings_lang_tags.txt	Hin Eng Eng Eng	English
+mobile hotspot kripaya on krien	09_EnableSettings_lang_tags.txt	Eng Eng Hin Eng Eng	English
+location settings ko on kijiye	09_EnableSettings_lang_tags.txt	Eng Eng Hin Eng Hin	English
+sync ko on kar dijiye	09_EnableSettings_lang_tags.txt	Eng Hin Eng Hin Hin	Hindi
+flash on kar do	09_EnableSettings_lang_tags.txt	Eng Eng Hin Hin	English
+wi-fi ko turn on kia jai	09_EnableSettings_lang_tags.txt	Eng Hin Eng Eng Hin Hin	English
+please do not disturb mode ko on kijiye	09_EnableSettings_lang_tags.txt	Hin Hin Eng Eng Eng Hin Eng Hin	English
+kya please tum nfc off kar sakte ho mere phone ka ?	09_EnableSettings_lang_tags.txt	Hin Hin Hin Eng Eng Hin Hin Hin Hin Eng Hin O	Hindi
+kya mere cellphone ka bluelight filter on karke de sakte ho ?	09_EnableSettings_lang_tags.txt	Hin Hin Eng Hin Eng Eng Eng Hin Hin Hin Hin O	Hindi
+g p s ki turn on kia jay	09_EnableSettings_lang_tags.txt	Hin Eng Eng Hin Eng Eng Hin Hin	English
+location on hai kya ?	09_EnableSettings_lang_tags.txt	Eng Eng Hin Hin O	English
+turn on auto sync	09_EnableSettings_lang_tags.txt	Eng Eng Eng Eng	English
+flight mode ko on kariye	09_EnableSettings_lang_tags.txt	Eng Eng Hin Eng Hin	English
+bluetooth off kar do	09_EnableSettings_lang_tags.txt	Eng Eng Hin Hin	English
+sync on kijiye	09_EnableSettings_lang_tags.txt	Eng Eng Hin	English
+bluetooth turn on karo	09_EnableSettings_lang_tags.txt	Eng Eng Eng Hin	English
+sync ko off karoge kya ?	09_EnableSettings_lang_tags.txt	Eng Hin Eng Hin Hin O	Hindi
+kripaya wi fi ko chalu kiya jai	09_EnableSettings_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin	Hindi
+kya mere phone ka bluetooth on hai	09_EnableSettings_lang_tags.txt	Hin Hin Eng Hin Eng Eng Hin	Hindi
+bluetooth ko ab off kar sakte ho	09_EnableSettings_lang_tags.txt	Eng Hin Hin Eng Hin Hin Hin	Hindi
+bixby please gps ko activate karo	09_EnableSettings_lang_tags.txt	Eng Hin Eng Hin Eng Hin	English
+kya gps ko chalu karke de sakte ho ?	09_EnableSettings_lang_tags.txt	Hin Eng Hin Hin Hin Hin Hin Hin O	Hindi
+bluetooth ko sakriya karein	09_EnableSettings_lang_tags.txt	Eng Hin Hin Hin	Hindi
+bluetooth ko active state mein kar do	09_EnableSettings_lang_tags.txt	Eng Hin Eng Eng Hin Hin Hin	Hindi
+mera bluetooth on kar do	09_EnableSettings_lang_tags.txt	Hin Eng Eng Hin Hin	Hindi
+do not disturb mode on kia jaye	09_EnableSettings_lang_tags.txt	Hin Eng Eng Eng Eng Hin Hin	English
+flight mode on karo abhi	09_EnableSettings_lang_tags.txt	Eng Eng Eng Hin Hin	English
+please sync on karen	09_EnableSettings_lang_tags.txt	Hin Eng Eng Hin	English
+please mere mobile ka sync on karo	09_EnableSettings_lang_tags.txt	Hin Hin Eng Hin Eng Eng Hin	Hindi
+kia power mode on kar sakte hain	09_EnableSettings_lang_tags.txt	Hin Eng Eng Eng Hin Hin Hin	Hindi
+mobile phone ka hotspot band kar do	09_EnableSettings_lang_tags.txt	Eng Eng Hin Eng Hin Hin Hin	Hindi
+fatafat auto aync on karo	09_EnableSettings_lang_tags.txt	Hin Eng Eng Eng Hin	English
+g p s settings ko chalu kijiye	09_EnableSettings_lang_tags.txt	Hin Eng Eng Eng Hin Hin Hin	Hindi
+kya power mode on kar sakte ho ?	09_EnableSettings_lang_tags.txt	Hin Eng Eng Eng Hin Hin Hin O	Hindi
+please auto sync ko abhi off karo	09_EnableSettings_lang_tags.txt	Hin Eng Eng Hin Hin Eng Hin	Hindi
+turn on wifi	09_EnableSettings_lang_tags.txt	Eng Eng Eng	English
+jaldi se bluetooth chalu karke do	09_EnableSettings_lang_tags.txt	Hin Hin Eng Hin Hin Hin	Hindi
+mere phone par bluetooth on karein	09_EnableSettings_lang_tags.txt	Hin Eng Hin Eng Eng Hin	English
+wifi ki on kare	09_EnableSettings_lang_tags.txt	Eng Hin Eng Hin	English
+zara wifi chalu karna	09_EnableSettings_lang_tags.txt	Hin Eng Hin Hin	Hindi
+kia location on kar sakte hain	09_EnableSettings_lang_tags.txt	Hin Eng Eng Hin Hin Hin	Hindi
+mujhe jaldi se bluetooth on karke do	09_EnableSettings_lang_tags.txt	Hin Hin Hin Eng Eng Hin Hin	Hindi
+mere mobile ke bt ko on kariyo please	09_EnableSettings_lang_tags.txt	Hin Eng Hin Eng Hin Eng Hin Hin	Hindi
+torch ko on karo	09_EnableSettings_lang_tags.txt	Eng Hin Eng Hin	English

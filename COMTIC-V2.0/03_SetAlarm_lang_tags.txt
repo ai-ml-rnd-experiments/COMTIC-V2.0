@@ -1,0 +1,170 @@
+morning five ka alarm set karna	03_SetAlarm_lang_tags.txt	Eng Eng Hin Eng Eng Hin	English
+chal abhi alarm laga subah 10 baje ka meeting with manager ke naam se	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin O Hin Hin Eng Eng Eng Hin Hin Hin	Hindi
+mujhe 30 minute mein uthao	03_SetAlarm_lang_tags.txt	Hin O Eng Hin Hin	Hindi
+morning walk ke liye clock pe alarm rakho 5 baje ka	03_SetAlarm_lang_tags.txt	Eng Eng Hin Hin Eng Hin Eng Hin O Hin Hin	Hindi
+har evening ko saade saath ka alarm rakho mahabarath naam pe	03_SetAlarm_lang_tags.txt	Hin Eng Hin Hin Hin Hin Eng Hin Hin Hin Hin	Hindi
+dedh baje ke alarm rakhna hain kal ka	03_SetAlarm_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin Hin	Hindi
+gaadi ki service karana hain kal subhe 7 baje ko alarm maaro	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin O Hin Hin Eng Hin	Hindi
+apne phone pe kal morning 8 baje ka alarm bajna chahiye	03_SetAlarm_lang_tags.txt	Hin Eng Hin Hin Eng O Hin Hin Eng Hin Hin	Hindi
+may 1st ko 3 pm ka alarm create karke mujhe phone par flipkart mein order karne ka yaad dilao	03_SetAlarm_lang_tags.txt	Eng Eng Hin O Eng Hin Eng Eng Hin Hin Eng Hin Eng Hin Eng Hin Hin Hin Hin	Hindi
+next month ki 2nd ke liye ek alarm laga do please	03_SetAlarm_lang_tags.txt	Eng Eng Hin Eng Hin Hin Hin Eng Hin Hin Hin	Hindi
+subah utha dena mujhe 4 baje mandir jana hai	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin O Hin Hin Hin Hin	Hindi
+ravivaar ko 2 baje lunch date ka alarm lagao	03_SetAlarm_lang_tags.txt	Hin Hin O Hin Eng Eng Hin Eng Hin	Hindi
+dada ji ko shaam ko 5 baje uthane ka alarm lagao	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin Hin O Hin Hin Hin Eng Hin	Hindi
+volunteering namak ek alarm lagao har weekend par	03_SetAlarm_lang_tags.txt	Eng Hin Hin Eng Hin Hin Eng Hin	Hindi
+11 baje ke football match ke liye alarm lagao	03_SetAlarm_lang_tags.txt	O Hin Hin Eng Eng Hin Hin Eng Hin	Hindi
+din me 3 bar fruits khane ke liye alarm lagao	03_SetAlarm_lang_tags.txt	Hin Hin O Hin Eng Hin Hin Hin Eng Hin	Hindi
+aadhe ghante baad alarm bajao	03_SetAlarm_lang_tags.txt	Hin Hin Hin Eng Hin	Hindi
+kya tum ek alarm set kar sakte ho mere liye sunday subah 10 baje ka	03_SetAlarm_lang_tags.txt	Hin Hin Hin Eng Eng Hin Hin Hin Hin Hin Hin Hin O Hin Hin	Hindi
+every alternate din ka sham ko 8 baje medicine ki alarm lagaye	03_SetAlarm_lang_tags.txt	Eng Eng Hin Hin Hin Hin O Hin Eng Hin Eng Hin	Hindi
+morning raga alarm set kar do at 6 in the morning	03_SetAlarm_lang_tags.txt	Eng Hin Eng Eng Hin Hin Eng O Eng Eng Eng	English
+set alarm for 7 pm raath ka khaana time naam se	03_SetAlarm_lang_tags.txt	Eng Eng Eng O Eng Hin Hin Hin Eng Hin Hin	English
+tomorrow morning mera sube 5 baje ka meeting hain alarm rako	03_SetAlarm_lang_tags.txt	Eng Eng Hin Hin O Hin Hin Eng Hin Eng Hin	Hindi
+evening walk ke liye alarm create karo 6 bajke 50 minute par	03_SetAlarm_lang_tags.txt	Eng Eng Hin Hin Eng Eng Hin O Hin O Eng Hin	English
+please ek alarm laga do jaldi se agle din subah 8:30 baje ka pilates	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin Hin Hin Hin O Hin Hin Eng	Hindi
+dance class ke naam pe har hafte mangalwar moring 8 bajkar 30 minute ka alarm create karo	03_SetAlarm_lang_tags.txt	Eng Eng Hin Hin Hin Hin Hin Hin Hin O Hin O Eng Hin Eng Eng Hin	Hindi
+raat ko medicine lene ka time set karo	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin Eng Eng Hin	Hindi
+alarm lagao agle hafte monday morning 7 baje ki	03_SetAlarm_lang_tags.txt	Eng Hin Hin Hin Hin Eng O Hin Hin	Hindi
+roz subah 8:30 uthne ka alarm set kia jae	03_SetAlarm_lang_tags.txt	Hin Hin O Hin Hin Eng Eng Hin Hin	Hindi
+meri kal flight hai kal subah 5 baje utha dena	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin Hin O Hin Hin Hin	Hindi
+kripya dopehar 3 baje ka alarm set kare	03_SetAlarm_lang_tags.txt	Hin Hin O Hin Hin Eng Eng Hin	Hindi
+raat ko das baje ka alarm laga do sone ke liye	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin Hin Eng Hin Hin Hin Hin Hin	Hindi
+please tum ek alarm set karo kal subah 11 baje ka recharge naam se	03_SetAlarm_lang_tags.txt	Hin Hin Hin Eng Eng Hin Hin Hin O Hin Hin Eng Hin Hin	Hindi
+naya alarm rakhein har roz evening 6 baje ko aur badminton time naam rakho	03_SetAlarm_lang_tags.txt	Hin Eng Hin Hin Hin Eng O Hin Hin Hin Eng Eng Hin Hin	Hindi
+trekking karke ek alarm lagao saptahant shuru hote hi	03_SetAlarm_lang_tags.txt	Eng Hin Hin Eng Hin Hin Hin Hin Hin	Hindi
+raat ko dawai lene ka alarm lagao roz 9 bje	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin Hin Eng Hin Hin O Hin	Hindi
+set alarm for 6:00 am	03_SetAlarm_lang_tags.txt	Eng Eng Eng O Hin	English
+evening dinner ka alarm lagao shaam saat baje ka	03_SetAlarm_lang_tags.txt	Eng Eng Hin Eng Hin Hin Hin Hin Hin	Hindi
+mummy ko call karna hain everyday at 9 pm alarm laga	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin Hin Eng O Eng Eng Hin	Hindi
+main kal 8 baje school jaunga please alarm laga do ek ghante pehle ka	03_SetAlarm_lang_tags.txt	Hin Hin O Hin Eng Hin Hin Eng Hin Hin Hin Hin Hin Hin	Hindi
+mere liye ek alarm set karo turant for today 6 pm coffee	03_SetAlarm_lang_tags.txt	Hin Hin Hin Eng Eng Hin Hin Eng Eng O Eng Hin	Hindi
+shaam 7 pm ka alarm rakhle pickup biwi naam se	03_SetAlarm_lang_tags.txt	Hin O Eng Hin Eng Hin Eng Hin Hin Hin	Hindi
+saade das ka playtime ke naam se alarm create karo	03_SetAlarm_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin Eng Eng Hin	Hindi
+padhai ka alarm lagao har roz bajna chahiye sham ko 7 baje	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin Hin Hin Hin O Hin	Hindi
+mera exam hai kal subah jaldi utha dena 5 baje	03_SetAlarm_lang_tags.txt	Hin Eng Hin Hin Hin Hin Hin Hin O Hin	Hindi
+alarm rakhlo har dopehar 5:15 ko	03_SetAlarm_lang_tags.txt	Eng Hin Hin Hin O Hin	Hindi
+annual function ki meeting aaj shaam 7 baje rakhi hai alarm lagao iske liye	03_SetAlarm_lang_tags.txt	Eng Eng Hin Eng Hin Hin O Hin Hin Hin Eng Hin Hin Hin	Hindi
+kal 4 pm ko movie dekhna hai movie naam se alarm create karein	03_SetAlarm_lang_tags.txt	Hin O Eng Hin Eng Hin Hin Eng Hin Hin Eng Eng Hin	Hindi
+kal shaam 4 baje ko alarm bajo	03_SetAlarm_lang_tags.txt	Hin Hin O Hin Hin Eng Hin	Hindi
+kya tum aaj raat ko 9 baje ka alarm laga sakte ho ?	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin Hin O Hin Hin Eng Hin Hin Hin O	Hindi
+breakfast naam se ek alarm set karo roz 10 baje ka	03_SetAlarm_lang_tags.txt	Eng Hin Hin Hin Eng Eng Hin Hin O Hin Hin	Hindi
+morning ka alarm lagao saat baje ka	03_SetAlarm_lang_tags.txt	Eng Hin Eng Hin Hin Hin Hin	Hindi
+please kal shaam ka alarm rakho virtual get together ke naam se	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin Eng Hin Eng Eng Eng Hin Hin Hin	Hindi
+please ek alarm banayein har friday 8 baje sabji ke name se	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin Hin O Hin Hin Hin Eng Hin	Hindi
+sham ko football match ke liye 5 baje ka alarm lagao	03_SetAlarm_lang_tags.txt	Hin Hin Eng Eng Hin Hin O Hin Hin Eng Hin	Hindi
+please ek alarm set kar do zara for 9 pm tomorrow	03_SetAlarm_lang_tags.txt	Hin Hin Eng Eng Hin Hin Hin Eng O Eng Eng	English
+please ek alarm lagao zara wake up naam se at 7 am every weekday	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin Eng Eng Hin Hin Eng O Hin Eng Eng	Hindi
+subhe sair ka alarm create karo har din	03_SetAlarm_lang_tags.txt	Hin Hin Hin Eng Eng Hin Hin Hin	Hindi
+morning ko 6 baje uthna hai alarm laga de	03_SetAlarm_lang_tags.txt	Eng Hin O Hin Hin Hin Eng Hin Hin	Hindi
+dadu ka physiotherapy ke name se har saturday 9 am ki alarm set karein	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Eng Hin Hin Eng O Hin Hin Eng Eng Hin	Hindi
+ipl match naam pe alarm set keejiye everyday at 2:30 pm	03_SetAlarm_lang_tags.txt	Hin Eng Hin Hin Eng Eng Hin Hin Eng O Eng	English
+party scene ke naam se alarm set karo evening 7 o clock ka	03_SetAlarm_lang_tags.txt	Eng Eng Hin Hin Hin Eng Eng Hin Eng O Hin Eng Hin	English
+subha 6 baje ki alarm lagao	03_SetAlarm_lang_tags.txt	Hin O Hin Hin Eng Hin	Hindi
+alarm banao har thursday shaam 730 society meeting ke naam ka	03_SetAlarm_lang_tags.txt	Eng Hin Hin Hin Hin O Eng Eng Hin Hin Hin	Hindi
+kya subah uthne ka alarm lagaya ja sakta hai ?	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin Eng Hin Hin Hin Hin O	Hindi
+alarm rakhlo parso 11 baje ka football practice ke naam pe	03_SetAlarm_lang_tags.txt	Eng Hin Hin O Hin Hin Eng Eng Hin Hin Hin	Hindi
+wake me up at 11 pm cinema dekhna hai tv pe	03_SetAlarm_lang_tags.txt	Eng Hin Eng Eng O Eng Eng Hin Hin Hin Hin	English
+morning alarm create kar do at 6 in the morning	03_SetAlarm_lang_tags.txt	Eng Eng Eng Hin Hin Eng O Eng Eng Eng	English
+raat ko medicine lene ka alarm rakho	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin Eng Hin	Hindi
+yoga classes naam se ek alarm set karo har din 7:15 par	03_SetAlarm_lang_tags.txt	Eng Eng Hin Hin Hin Eng Eng Hin Hin Hin O Hin	Hindi
+yoga abhyas ke naam se har tuesday aur thursday 5:30 pm ka alarm set karein	03_SetAlarm_lang_tags.txt	Eng Eng Hin Hin Hin Hin Hin Hin Hin O Eng Hin Eng Eng Hin	Hindi
+har raat ko khane ke baad take medicine naam se alarm laga do	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Eng Hin Hin Eng Hin Hin	Hindi
+alarm lagao five thirty in the morning	03_SetAlarm_lang_tags.txt	Eng Hin Eng Eng Eng Eng Eng	English
+mausi ke saath doctor saab ko milne jaana hain kal 10 baje ko alarm lagao	03_SetAlarm_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin Hin Hin Hin O Hin Hin Eng Hin	Hindi
+har roz subah 7:30 baje ka alarm set karo	03_SetAlarm_lang_tags.txt	Hin Hin Hin O Hin Hin Eng Eng Hin	Hindi
+mere liye alarm lagao papa's eye test kal evening me 7 baje	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Eng Hin Eng Hin Eng Hin O Hin	Hindi
+mujhe har shaam 6 baje tv dekhna hai alarm laga do	03_SetAlarm_lang_tags.txt	Hin Hin Hin O Hin Hin Hin Hin Eng Hin Hin	Hindi
+exercise karne jane ka alarm lagao sham ko 5 bje ka	03_SetAlarm_lang_tags.txt	Eng Hin Hin Hin Eng Hin Hin Hin O Hin Hin	Hindi
+subha 6 am ko mere ko nind se utha dena	03_SetAlarm_lang_tags.txt	Hin O Hin Hin Hin Hin Hin Hin Hin Hin	Hindi
+kripya mujhe morning 6 baje ko kal uthana	03_SetAlarm_lang_tags.txt	Hin Hin Eng O Hin Hin Hin Hin	Hindi
+subah jaldi uthke padhne baithne ka alarm lagao 4 baje	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Hin O Hin	Hindi
+subah 6 baje ka alarm set karo	03_SetAlarm_lang_tags.txt	Hin O Hin Hin Eng Eng Hin	Hindi
+kal morning 8 baje ka alarm lagao naam rakho important	03_SetAlarm_lang_tags.txt	Hin Eng O Hin Hin Eng Hin Hin Hin Eng	Hindi
+cinema time ke title pe ek alarm banao agle sunday 7 pm ka	03_SetAlarm_lang_tags.txt	Eng Eng Hin Eng Hin Hin Eng Hin Hin Hin O Eng Hin	Hindi
+kripaya roj subha 5 baje ki alarm lagaiye	03_SetAlarm_lang_tags.txt	Hin Hin Hin O Hin Hin Eng Hin	Hindi
+is mahine 30 tareekh ko subhe 5 baje ka alarm set karo	03_SetAlarm_lang_tags.txt	Eng Hin O Hin Hin Hin O Hin Hin Eng Eng Hin	Hindi
+subah aath baje ka alarm set karein	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin Eng Eng Hin	Hindi
+every day 8 pm alarm bajao gudiya ki dawai ke naam se	03_SetAlarm_lang_tags.txt	Eng Eng O Eng Eng Hin Hin Hin Hin Hin Hin Hin	Hindi
+cookery show title pe ek alarm lagao every wednesday at 10 am	03_SetAlarm_lang_tags.txt	Eng Eng Eng Hin Hin Eng Hin Eng Hin Eng O Hin	English
+mujhe ek alarm set karke do dopahar ke dhai baje ka	03_SetAlarm_lang_tags.txt	Hin Hin Eng Eng Hin Hin Hin Hin Hin Hin Hin	Hindi
+hafte ke saare dinon ke liye morning alarm create karo	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Eng Eng Hin	Hindi
+mujhe alarm chahiye har din afternoon mein take medicine naam se	03_SetAlarm_lang_tags.txt	Hin Eng Hin Hin Hin Eng Hin Eng Eng Hin Hin	Hindi
+roz subah 7 baje school jane ka alarm lagao	03_SetAlarm_lang_tags.txt	Hin Hin O Hin Eng Hin Hin Eng Hin	Hindi
+alarm lagao agle hafte wednesday ko 6:16 par	03_SetAlarm_lang_tags.txt	Eng Hin Hin Hin Hin Hin O Hin	Hindi
+sai baba serial ke naam se ek alarm set kar do har guruvaar raat 8 baje	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin Eng Eng Hin Hin Hin Hin Hin O Hin	Hindi
+mere liye jaldi ek alarm set karo to drink spearmint tea in the morning at 6:30 everyday	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin Eng Eng Hin Eng Eng Eng Eng Eng Eng Eng Eng O Hin	English
+evening walk par jaane ka alarm set karo	03_SetAlarm_lang_tags.txt	Eng Eng Hin Hin Hin Eng Eng Hin	English
+har morning 5 bajkar 30 minute ka alarm laga de 5 minute 3 bar snooze pe	03_SetAlarm_lang_tags.txt	Hin Eng O Hin O Eng Hin Eng Hin Hin O Eng O Hin Eng Hin	Hindi
+mujhe har morning sade paanch baje uthna hai alaram laga de	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin Hin Eng Hin Hin	Hindi
+ek alarm banaiye jo mujhe har subah walking ke liye utha de	03_SetAlarm_lang_tags.txt	Hin Eng Hin Hin Hin Hin Hin Eng Hin Hin Hin Hin	Hindi
+har ghante ka alarm lagao pani peene ke liye	03_SetAlarm_lang_tags.txt	Hin Hin Hin Eng Hin Hin Hin Hin Hin	Hindi
+kripaya ek alarm lagao pani peene ka har ghante	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin Hin Hin	Hindi
+har din 6 bajke 15 minute mein mujhe neend se uthao	03_SetAlarm_lang_tags.txt	Hin Hin O Hin O Eng Hin Hin Hin Hin Hin	Hindi
+mujhe subah utha dena kal 7 baje	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin Hin O Hin	Hindi
+kal suba 10 ko tatkal check karna hain 15 minute pehle alarm bajana	03_SetAlarm_lang_tags.txt	Hin Hin O Hin Hin Eng Hin Hin O Eng Hin Eng Hin	Hindi
+subha 9 baje jaga dena	03_SetAlarm_lang_tags.txt	Hin O Hin Hin Hin	Hindi
+drink juice naam se alarm laga do har alternate day pe 8 am ka	03_SetAlarm_lang_tags.txt	Eng Eng Hin Hin Eng Hin Hin Hin Eng Eng Hin O Hin Hin	Hindi
+fatafat ek alarm lagao please har roz subah 5 baje ka jaap naame se	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin Hin O Hin Hin Hin Hin Hin	Hindi
+alarm banao parso subha ka	03_SetAlarm_lang_tags.txt	Eng Hin Hin Hin Hin	Hindi
+meri meeting hai kal dopahar ko alarm lagao	03_SetAlarm_lang_tags.txt	Hin Eng Hin Hin Hin Hin Eng Hin	Hindi
+please ek alarm set karke do 3 baje movie naam se	03_SetAlarm_lang_tags.txt	Hin Hin Eng Eng Hin Hin O Hin Eng Hin Hin	Hindi
+doctor appointment ke naam wala alarm set kijiye evening 7 o clock ka	03_SetAlarm_lang_tags.txt	Eng Eng Hin Hin Hin Eng Eng Hin Eng O Hin Eng Hin	English
+alarm set kar turant har roz subah 7 baje ka	03_SetAlarm_lang_tags.txt	Eng Eng Hin Hin Hin Hin Hin O Hin Hin	Hindi
+ek alarm lagao agle hafte subah 8 baje parent teacher meeting ka	03_SetAlarm_lang_tags.txt	Hin Eng Hin Hin Hin Hin O Hin Eng Eng Eng Hin	Hindi
+chintu ko dawai dene ka alarm set karo har 4 ghante ke antar antar	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin Hin Eng Eng Hin Hin O Hin Hin Hin Hin	Hindi
+alarm raat barah baje ke liye	03_SetAlarm_lang_tags.txt	Eng Hin Hin Hin Hin Hin	Hindi
+morning seven ka alarm set kariye	03_SetAlarm_lang_tags.txt	Eng Eng Hin Eng Eng Hin	English
+kal morning 8 baje alarm bajana	03_SetAlarm_lang_tags.txt	Hin Eng O Hin Eng Hin	Hindi
+kal 5 ko tv pe cinema dekhna hain alarm rakho	03_SetAlarm_lang_tags.txt	Hin O Hin Hin Hin Eng Hin Hin Eng Hin	Hindi
+kripaya ek alarm laga dijiye kal subah 9 baje ka for school	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin O Hin Hin Eng Eng	Hindi
+baba ko phone karna hain kal 7 am alarm bajao us time pe	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin Hin O Hin Eng Hin Hin Eng Hin	Hindi
+mummy ko dance class ke liye subah 10 baje jana hai alarm lagao	03_SetAlarm_lang_tags.txt	Hin Hin Eng Eng Hin Hin Hin O Hin Hin Hin Eng Hin	Hindi
+kya ek alarm lagaya ja sakta hai test tomorrow ke naam se kal subah 9 baje ka	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin Eng Eng Hin Hin Hin Hin Hin O Hin Hin	Hindi
+kal 7 pm alarm ki vyavastha karo	03_SetAlarm_lang_tags.txt	Hin O Eng Eng Hin Hin Hin	Hindi
+kal subah 8 baje ka alarm lagao naam wake up rakho	03_SetAlarm_lang_tags.txt	Hin Hin O Hin Hin Eng Hin Hin Eng Eng Hin	Hindi
+biryani pakani hai kal subah uthte hi alarm lagao	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin Eng Hin	Hindi
+kripya alarm banayein	03_SetAlarm_lang_tags.txt	Hin Eng Hin	Hindi
+alarm lagao aaj dopahar ke 3 baje ka for blood test	03_SetAlarm_lang_tags.txt	Eng Hin Hin Hin Hin O Hin Hin Eng Eng Eng	Hindi
+har raat ko khane ke baad take medicine named alarm laga do	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Eng Eng Eng Hin Hin	Hindi
+alarm set karo jogging ke liye 5:30 baje every morning	03_SetAlarm_lang_tags.txt	Eng Eng Hin Eng Hin Hin O Hin Eng Eng	English
+7 pm ko alarm lagao walking dog ke naam se	03_SetAlarm_lang_tags.txt	O Eng Hin Eng Hin Eng Eng Hin Hin Hin	Hindi
+mujhe ek alarm set karna tha next monday 2 pm ke liye	03_SetAlarm_lang_tags.txt	Hin Hin Eng Eng Hin Hin Eng Hin O Eng Hin Hin	Hindi
+kripaya set an alarm	03_SetAlarm_lang_tags.txt	Hin Eng Eng Eng	English
+sham ko 5 baje ki alarm lagao	03_SetAlarm_lang_tags.txt	Hin Hin O Hin Hin Eng Hin	Hindi
+repeat alarm lagao monday to sunday subah 10 baje ka yoga ke naam se	03_SetAlarm_lang_tags.txt	Eng Eng Hin Hin Eng Hin Hin O Hin Hin Eng Hin Hin Hin	Hindi
+dawai ke naam se ek alarm banayiye har din 8 am par	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin Hin Eng Hin Hin Hin O Hin Hin	Hindi
+mujhe raat ko jaldi khana kha lena hai 9 baje dinner ka alarm lagao	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin Hin Hin Hin Hin O Hin Eng Hin Eng Hin	Hindi
+weekend ka alag se alarm uthne ka at 9 am	03_SetAlarm_lang_tags.txt	Eng Hin Hin Hin Eng Hin Hin Eng O Hin	Hindi
+alarm bajao 3 ghante baad aur check water level naam rakhein	03_SetAlarm_lang_tags.txt	Eng Hin O Hin Hin Hin Eng Eng Eng Hin Hin	Hindi
+alarm sound karein kal subha 10 ka cookery show naam rakhlo	03_SetAlarm_lang_tags.txt	Eng Eng Hin Hin Hin O Hin Eng Eng Hin Hin	Hindi
+alarm lagana six thirty early morning	03_SetAlarm_lang_tags.txt	Eng Hin Eng Eng Eng Eng	English
+shaam 6:30 ka bus pakadna hain 6 baje ko alarm lagao	03_SetAlarm_lang_tags.txt	Hin O Hin Hin Hin Hin O Hin Hin Eng Hin	Hindi
+har mahine ki 1 tareekh ko dopahar 3 baje citi bank mail check karne ka alarm lagao	03_SetAlarm_lang_tags.txt	Hin Hin Hin O Hin Hin Hin O Hin Eng Eng Eng Eng Hin Hin Eng Hin	Hindi
+aane wale sunday ke liye ek alaram rakh do drawing class ke naam se	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin Hin Hin Eng Hin Hin Eng Eng Hin Hin Hin	Hindi
+please kal 7 am ko alarm bajana	03_SetAlarm_lang_tags.txt	Hin Hin O Hin Hin Eng Hin	Hindi
+mujhe alarm set karke do lunch at hyatt naam se	03_SetAlarm_lang_tags.txt	Hin Eng Eng Hin Hin Eng Eng Eng Hin Hin	English
+evening 7 ka alarm maaro	03_SetAlarm_lang_tags.txt	Eng O Hin Eng Hin	English
+alarm bajana dopehar 4 baje ko	03_SetAlarm_lang_tags.txt	Eng Hin Hin O Hin Hin	Hindi
+subha jogging ke liye 7 baje ka alarm lagaiye	03_SetAlarm_lang_tags.txt	Hin Eng Hin Hin O Hin Hin Eng Hin	Hindi
+mujhe morning mein 6 baje uthna hai alarm lagao	03_SetAlarm_lang_tags.txt	Hin Eng Hin O Hin Hin Hin Eng Hin	Hindi
+set alarm meri shaam ki meeting ke naam se	03_SetAlarm_lang_tags.txt	Eng Eng Hin Hin Hin Eng Hin Hin Hin	Hindi
+har roz subah 7:30 baje ka alarm set kariye	03_SetAlarm_lang_tags.txt	Hin Hin Hin O Hin Hin Eng Eng Hin	Hindi
+saptahant ke liye alarm rakho named trekking	03_SetAlarm_lang_tags.txt	Hin Hin Hin Eng Hin Eng Eng	Hindi
+zara alarm set karo kal subah 4:45 ka puja ke liye	03_SetAlarm_lang_tags.txt	Hin Eng Eng Hin Hin Hin O Hin Hin Hin Hin	Hindi
+next monday ka alarm rakho 2 baje for math tuitions	03_SetAlarm_lang_tags.txt	Eng Hin Hin Eng Hin O Hin Eng Eng Eng	English
+agle mahine ki 2 tareekh ki subah 7 baje ka alarm lagao for computer classes	03_SetAlarm_lang_tags.txt	Hin Hin Hin O Hin Hin Hin O Hin Hin Eng Hin Eng Eng Eng	Hindi
+har roz 7 baje ko uthna hai mujhe kal se swimming class jaana hain	03_SetAlarm_lang_tags.txt	Hin Hin O Hin Hin Hin Hin Hin Hin Hin Eng Eng Hin Hin	Hindi
+ek alarm set karke do mujhe	03_SetAlarm_lang_tags.txt	Hin Eng Eng Hin Hin Hin	Hindi
+saas bahu serial wale naam se ek alarm banaiye har guruvaar raat 8 baje	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin Eng Hin Hin Hin Hin O Hin	Hindi
+raat ke do baje ka alarm set karo for dialysis	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin Hin Eng Eng Hin Eng Eng	Hindi
+beti ko school se lana hain every day at 11:00 am create an alarm aur naam school time lagade	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin Hin Eng Eng Eng O Hin Eng Eng Eng Hin Hin Eng Eng Hin	English
+agle din ke liye subah 5 baje ka alarm lagao padhai ke naam se	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin Hin O Hin Hin Eng Hin Hin Hin Hin Hin	Hindi
+kya ek alarm laga ke doge for morning walk at 5 am everyday	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin Hin Eng Eng Eng Eng O Hin Hin	Hindi
+roj subha 5 baje ki alarm set kijiye	03_SetAlarm_lang_tags.txt	Hin Hin O Hin Hin Eng Eng Hin	Hindi
+mujhe har morning sade paanch baje uthna hai alaram laga de	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin Hin Hin Hin Eng Hin Hin	Hindi
+kripaya har rabibar ko 9 baje badminton ki alarm lagaye	03_SetAlarm_lang_tags.txt	Hin Hin Hin Hin O Hin Eng Hin Eng Hin	Hindi
+parson raat 11 baje ka alarm set karein baiyya ka janmadin title rakh ke	03_SetAlarm_lang_tags.txt	Hin Hin O Hin Hin Eng Eng Hin Hin Hin Hin Eng Hin Hin	Hindi
+agle mahine 5th ko shaam 3 pm ka alarm set karo doctor appointment ke naam se	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Hin O Eng Hin Eng Eng Hin Eng Eng Hin Hin Hin	Hindi
+kripaya ek alarm set kijiye amma ji ki dawai ke naam se kal dopahar 3 baje ka	03_SetAlarm_lang_tags.txt	Hin Hin Eng Eng Hin Hin Hin Hin Hin Hin Hin Hin Hin Hin O Hin Hin	Hindi
+har monday ki 7 am yoga class ki alarm set kare	03_SetAlarm_lang_tags.txt	Hin Hin Hin O Hin Eng Eng Hin Eng Eng Hin	Hindi
+please monday morning ka alarm laga ke do at 5 named as zumba	03_SetAlarm_lang_tags.txt	Hin Hin Eng Hin Eng Hin Hin Hin Eng O Eng Eng Hin	Hindi
